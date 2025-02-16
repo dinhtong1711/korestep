@@ -1,0 +1,134 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e2dede; /* Màu nền tối giống màu trước đó */
+  margin: 0;
+  background: radial-gradient(#0f0c29, #302b63, #24243e);
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Đảm bảo chiều cao đủ để footer ở dưới cùng */
+  color: white; /* Màu chữ trắng để dễ đọc trên nền tối */
+}
+.flashcard-detail-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: auto; /* Chiều cao tự động */
+  min-height: 300px; /* Chiều cao tối thiểu */
+  padding: 40px 20px; /* Thêm padding trên và dưới */
+  margin: 60px auto; /* Thêm margin trên để di chuyển xuống dưới */
+  background-color: #444;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 255, 255, 0.2);
+  color: white;
+  text-align: center;
+}
+
+
+.flashcard-container {
+  display: flex; /* Sử dụng Flexbox cho flashcard container */
+  flex-wrap: wrap; /* Cho phép các flashcard gói lại */
+  justify-content: space-between; /* Căn giữa các flashcard */
+  width: 100%; /* Đảm bảo chiếm toàn bộ chiều rộng */
+}
+
+.flashcard {
+    background: linear-gradient(145deg, #232526, #414345); /* Gradient màu tối */
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 234, 255, 0.3); /* Ánh sáng neon nhẹ */
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Căn giữa nội dung */
+  transition: box-shadow 0.3s ease;
+  width: calc(25% - 20px); /* Đặt chiều rộng là 25% của container */
+  margin: 10px; /* Thêm khoảng cách giữa các flashcard */
+  text-align: center; /* Căn giữa text bên trong */
+  color: white; /* Màu chữ trắng */
+}
+
+.flashcard:hover {
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.8); /* Hiệu ứng neon khi hover */
+}
+
+.audio-container {
+  margin-top: 10px; /* Thêm khoảng cách trên audio */
+  width: 100%; /* Đặt chiều rộng 100% cho audio */
+}
+
+.flashcard-detail-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  background-color: #444; /* Màu nền tối hơn cho trang chi tiết */
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 255, 255, 0.2);
+  margin: 20px auto;
+  max-width: 600px;
+  width: 90%;
+  color: white;
+}
+
+
+.flashcard-detail-page h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+  color: cyan; /* Màu tiêu đề neon */
+  text-shadow: 0 0 10px cyan;
+}
+
+.flashcard-detail-page p {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+  text-align: center;
+  color: lightgray;
+}
+/*  */
+.flashcard h2 {
+  color: #00eaff; /* Màu cyan nổi bật */
+  text-shadow: 0 0 10px rgba(0, 234, 255, 0.8); /* Hiệu ứng phát sáng */
+  font-size: 1.8em;
+}
+/*  */
+.flashcard p {
+  color: #d0d0d0; /* Màu xám nhẹ để dịu mắt */
+  font-size: 1.2em;
+}
+
+.footer {
+background: #1e1e1e;
+color: #00eaff;
+text-shadow: 0 0 5px #00eaff; 
+box-shadow: 0 -5px 15px rgba(0, 234, 255, 0.3);
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.details-link {
+  background: linear-gradient(45deg, #00eaff, #8a2be2, #ff00ff); /* Gradient màu công nghệ */
+  color: white;
+  text-shadow: 0 0 5px #00eaff;
+  margin-top: 10px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: box-shadow 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 0 10px rgba(0, 234, 255, 0.6);
+}
+
+.details-link:hover {
+  box-shadow: 0 0 20px rgba(0, 234, 255, 0.9), 0 0 25px rgba(138, 43, 226, 0.9);
+  transform: scale(1.05);
+}
