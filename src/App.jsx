@@ -7,6 +7,7 @@ function App() {
   return (
     <Router>
       <div className="App">
+      <h1>Chào mừng bạn đến với Flashcard 🚀</h1>
         {/* Định nghĩa các route */}
         <Routes>
           {/* Trang hiển thị danh sách flashcards */}
