@@ -1,22 +1,17 @@
-import 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'; // Import React Router
-import AudioFlashcard from './AudioFlashcard'; // Trang hiển thị danh sách flashcards
-import FlashcardPage from './FlashcardPage'; // Trang chi tiết flashcard
-
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom"; // Sử dụng Routes thay vì Switch
+// import Navbar from "./Navbar";
+import AudioFlashcard from './AudioFlashcard';
+import FlashcardPage from './FlashcardPage';
+import Footer from './Footer';
 function App() {
   return (
     <Router>
-      <div className="App">
-      <h1>Chào mừng bạn đến với Flashcard 🚀</h1>
-        {/* Định nghĩa các route */}
-        <Routes>
-          {/* Trang hiển thị danh sách flashcards */}
-          <Route path="/" element={<AudioFlashcard />} />
-
-          {/* Trang chi tiết flashcard, sử dụng ID từ URL */}
-          <Route path="/flashcards/:id" element={<FlashcardPage />} />
-        </Routes>
-      </div>
+      {/* <Navbar /> */}
+      <Routes> {/* Sử dụng Routes thay vì Switch */}
+        <Route path="/flashcards/:id" element={<FlashcardPage />} />
+        <Route path="/" element={<AudioFlashcard />} />
+      </Routes>
+      <Footer />
     </Router>
   );
 }
