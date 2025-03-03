@@ -11,7 +11,7 @@ const FlashcardPage = () => {
   const audioRef = useRef(null);
 
   useEffect(() => {
-    fetch("./Data.json")
+    fetch("/Data.json")
       .then(response => response.json())
       .then(data => {
         const foundCard = data.find(item => item.ID === parseInt(id));
