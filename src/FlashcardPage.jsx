@@ -11,7 +11,8 @@ const FlashcardPage = () => {
   const audioRef = useRef(null);
 
   useEffect(() => {
-    fetch(import.meta.env.BASE_URL + "Data.json")
+    fetch(`${import.meta.env.VITE_BASE_URL}Data.json`)
+
 
 
     .then(response => {
