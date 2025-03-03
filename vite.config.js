@@ -10,6 +10,9 @@ export default defineConfig({
   optimizeDeps: {
     include: ['qrcode.react'],
   },
+  server: {
+    historyApiFallback: true, // Thêm dòng này
+  },
 });
 
 
