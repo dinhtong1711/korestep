@@ -1,7 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { useParams } from "react-router-dom";
 import "./App.css";
-import Footer from './Footer';
 
 const FlashcardPage = () => {
   const { id } = useParams();
@@ -69,7 +68,7 @@ const FlashcardPage = () => {
         </div>
       )}
 
-      <Footer />
+      
     </div>
   );
 };

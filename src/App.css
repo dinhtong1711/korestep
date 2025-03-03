@@ -212,3 +212,76 @@ audio {
   color: #BDC3C7; /* Màu chữ nhẹ, hiện đại */
 }
 
+@media (max-width: 1024px) {
+  .flashcard-container {
+    justify-content: center; /* Căn giữa trên màn hình nhỏ */
+  }
+
+  .flashcard {
+    width: calc(50% - 20px); /* 2 cột trên màn hình tablet */
+  }
+}
+
+@media (max-width: 768px) {
+  .flashcard {
+    width: 100%; /* 1 cột trên màn hình mobile */
+  }
+
+  .topic-filter select {
+    width: 100%; /* Để dropdown dễ bấm hơn */
+    font-size: 16px;
+  }
+
+  .play-button {
+    font-size: 14px;
+    padding: 8px 12px;
+  }
+
+  .audio-container audio {
+    width: 100%; /* Đảm bảo audio không bị lệch */
+  }
+
+  .footer {
+    text-align: center;
+    padding: 15px 0;
+  }
+
+  .footer .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  @media (max-width: 480px) {
+    .flashcard-container {
+      padding: 10px;
+    }
+  
+    .flashcard {
+      width: 90%;
+      margin: 0 auto;
+    }
+  
+    .text-content {
+      font-size: 16px; /* Điều chỉnh size chữ cho phù hợp */
+      text-align: center;
+    }
+  
+    .audio-container {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+    }
+  
+    .footer {
+      text-align: center;
+      padding: 10px 0;
+    }
+  
+    .footer .social-icons {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+    }
+  }
+  
+}

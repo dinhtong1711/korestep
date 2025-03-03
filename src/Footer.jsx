@@ -9,8 +9,8 @@ export default function Footer() {
         <div className="footer-column">
           
           <div className="social-icons">
-            <a href="#"><Facebook /></a>
-            <a href="#"><Instagram /></a>
+            <a href="https://www.facebook.com/profile.php?id=61567718402849"><Facebook /></a>
+            <a href="https://www.instagram.com/koreanstep1711/"><Instagram /></a>
             
           </div>
         </div>
