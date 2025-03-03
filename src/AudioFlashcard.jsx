@@ -11,14 +11,25 @@ const AudioFlashcard = () => {
   const audioRef = useRef(new Audio());
 
   useEffect(() => {
-    fetch("/Data.json")
-      .then((response) => response.json())
-      .then((data) => {
+    const fetchData = async () => {
+      try {
+        const response = await fetch("/Data.json");
+  
+        if (!response.ok) {
+          throw new Error(`Lỗi ${response.status}: Không thể tải dữ liệu`);
+        }
+  
+        const data = await response.json();
         setAudioData(data);
         setFilteredData(data);
-      })
-      .catch((error) => console.error("Error loading data:", error));
+      } catch (error) {
+        console.error("Lỗi khi tải dữ liệu:", error.message);
+      }
+    };
+  
+    fetchData();
   }, []);
+  
 
   const handleTopicChange = (event) => {
     const topic = event.target.value;
