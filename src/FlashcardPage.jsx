@@ -13,6 +13,7 @@ const FlashcardPage = () => {
   useEffect(() => {
     fetch(import.meta.env.BASE_URL + "Data.json")
 
+
     .then(response => {
       if (!response.ok) throw new Error(`Lỗi ${response.status}: Không thể tải dữ liệu`);
       return response.json();
