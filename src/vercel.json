@@ -1,16 +1,9 @@
 {
     "rewrites": [
-        {
-            "source": "/Data.json",
-            "destination": "/Data.json"
-          }
-      
-    ],
-    "build": {
-      "env": {
-        "NODE_ENV": "production"
+      {
+        "source": "/Data.json",
+        "destination": "/Data.json"
       }
-    }
+    ]
   }
-  
   
