@@ -11,10 +11,7 @@ const FlashcardPage = () => {
   const audioRef = useRef(null);
 
   useEffect(() => {
-    // eslint-disable-next-line no-undef
-    fetch(`${process.env.PUBLIC_URL}/Data.json`)
-
-
+    fetch("./Data.json")
       .then(response => response.json())
       .then(data => {
         const foundCard = data.find(item => item.ID === parseInt(id));
