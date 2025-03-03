@@ -10,8 +10,12 @@ export default defineConfig({
   optimizeDeps: {
     include: ['qrcode.react'],
   },
+  base: "./", // Cần thiết khi deploy trên Vercel
+  build: {
+    outDir: "dist", // Thư mục chứa file build
+  },
   server: {
-    historyApiFallback: true, // Thêm dòng này
+    historyApiFallback: true, // Đảm bảo React Router hoạt động đúng
   },
 });
 
