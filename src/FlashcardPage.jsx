@@ -11,18 +11,30 @@ const FlashcardPage = () => {
   const audioRef = useRef(null);
 
   useEffect(() => {
-    fetch("/Data.json")
-      .then(response => response.json())
-      .then(data => {
-        const foundCard = data.find(item => item.ID === parseInt(id));
+    const fetchData = async () => {
+      try {
+        const response = await fetch(`${window.location.origin}/Data.json`);
+        
+        if (!response.ok) {
+          throw new Error(`Lỗi HTTP! Status: ${response.status}`);
+        }
+
+        const data = await response.json();
+        const foundCard = data.find(item => item.ID === Number(id));
+
         if (foundCard) {
           setFlashcard(foundCard);
         } else {
-          setError("Không tìm thấy thẻ flashcard");
+          setError("Không tìm thấy thẻ flashcard.");
         }
-      })
-      .catch(error => setError("Lỗi loading data: " + error.message))
-      .finally(() => setLoading(false));
+      } catch (error) {
+        setError(`Lỗi tải dữ liệu: ${error.message}`);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchData();
   }, [id]);
 
   const handleSpeedChange = (speed) => {
@@ -32,26 +44,21 @@ const FlashcardPage = () => {
     }
   };
 
-  if (loading) {
-    return <div>Đang tải...</div>;
-  }
-
-  if (error) {
-    return <div>{error}</div>;
-  }
+  if (loading) return <div>🔄 Đang tải...</div>;
+  if (error) return <div className="error">❌ {error}</div>;
 
   return (
     <div className="flashcard-detail-page">
-      <h1>{flashcard.Word}</h1>
-      <p>{flashcard.Meaning}</p>
-      <p>{flashcard["Example(Korean)"]}</p>
-      <p>{flashcard["Example(Vietnamese)"]}</p>
-      
-      {flashcard.Audio && (
+      <h1>{flashcard?.Word || "Không có dữ liệu"}</h1>
+      <p><strong>Nghĩa:</strong> {flashcard?.Meaning || "Không có dữ liệu"}</p>
+      <p><strong>Ví dụ (KR):</strong> {flashcard?.["Example(Korean)"] || "Không có dữ liệu"}</p>
+      <p><strong>Ví dụ (VN):</strong> {flashcard?.["Example(Vietnamese)"] || "Không có dữ liệu"}</p>
+
+      {flashcard?.Audio && (
         <div className="audio-container">
           <audio ref={audioRef} controls>
             <source src={flashcard.Audio} type="audio/wav" />
-            Your browser does not support the audio element.
+            Trình duyệt của bạn không hỗ trợ phát âm thanh.
           </audio>
           <div className="speed-control">
             <label>Tốc độ:</label>
@@ -67,8 +74,6 @@ const FlashcardPage = () => {
           </div>
         </div>
       )}
-
-      
     </div>
   );
 };
