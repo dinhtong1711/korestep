@@ -11,31 +11,19 @@ const FlashcardPage = () => {
   const audioRef = useRef(null);
 
   useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await fetch(`${window.location.origin}/Data.json`);
-        
-        if (!response.ok) {
-          throw new Error(`Lỗi HTTP! Status: ${response.status}`);
-        }
-
-        const data = await response.json();
-        const foundCard = data.find(item => item.ID === Number(id));
-
-        if (foundCard) {
-          setFlashcard(foundCard);
-        } else {
-          setError("Không tìm thấy thẻ flashcard.");
-        }
-      } catch (error) {
-        setError(`Lỗi tải dữ liệu: ${error.message}`);
-      } finally {
-        setLoading(false);
+    fetch("/Data.json")
+    .then(response => response.json())
+    .then(data => {
+      const foundCard = data.find(item => item.ID === parseInt(id));
+      if (foundCard) {
+        setFlashcard(foundCard);
+      } else {
+        setError("Không tìm thấy thẻ flashcard");
       }
-    };
-
-    fetchData();
-  }, [id]);
+    })
+    .catch(error => setError("Lỗi loading data: " + error.message))
+    .finally(() => setLoading(false));
+}, [id]);
 
   const handleSpeedChange = (speed) => {
     setPlaybackSpeed(speed);
