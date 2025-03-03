@@ -12,18 +12,14 @@ const FlashcardPage = () => {
 
   useEffect(() => {
     fetch("/Data.json")
-    .then(response => response.json())
-    .then(data => {
-      const foundCard = data.find(item => item.ID === parseInt(id));
-      if (foundCard) {
-        setFlashcard(foundCard);
-      } else {
-        setError("Không tìm thấy thẻ flashcard");
-      }
+    .then(response => {
+      if (!response.ok) throw new Error(`Lỗi ${response.status}: Không thể tải dữ liệu`);
+      return response.json();
     })
-    .catch(error => setError("Lỗi loading data: " + error.message))
+    .then(data => setFlashcard(data.find(item => item.ID === Number(id))))
+    .catch(error => setError(error.message))
     .finally(() => setLoading(false));
-}, [id]);
+}, [id]);  
 
   const handleSpeedChange = (speed) => {
     setPlaybackSpeed(speed);
