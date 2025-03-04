@@ -11,9 +11,7 @@ const FlashcardPage = () => {
   const audioRef = useRef(null);
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}Data.json`)
-
-
+    fetch("/Data.json")
 
     .then(response => {
       if (!response.ok) throw new Error(`Lỗi ${response.status}: Không thể tải dữ liệu`);
