@@ -1,15 +1,18 @@
 import { Routes, Route } from 'react-router-dom';
 import AudioFlashcard from './AudioFlashcard.jsx';
 import FlashcardPage from './FlashcardPage.jsx';
+import Footer from './Footer.jsx';
 import './App.css';
-import Footer from './Footer';
+
 function App() {
   return (
-    <Routes>
-      <Route path="/" element={<AudioFlashcard />} />
-      <Route path="/flashcards/:id" element={<FlashcardPage />} />
+    <div>
+      <Routes>
+        <Route path="/" element={<AudioFlashcard />} />
+        <Route path="/flashcards/:id" element={<FlashcardPage />} />
+      </Routes>
       <Footer />
-    </Routes>
+    </div>
   );
 }
 

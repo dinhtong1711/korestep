@@ -12,15 +12,14 @@ const FlashcardPage = () => {
 
   useEffect(() => {
     fetch("/Data.json")
-
-    .then(response => {
-      if (!response.ok) throw new Error(`Lỗi ${response.status}: Không thể tải dữ liệu`);
-      return response.json();
-    })
-    .then(data => setFlashcard(data.find(item => item.ID === Number(id))))
-    .catch(error => setError(error.message))
-    .finally(() => setLoading(false));
-}, [id]);  
+      .then((response) => {
+        if (!response.ok) throw new Error(`Lỗi ${response.status}: Không thể tải dữ liệu`);
+        return response.json();
+      })
+      .then((data) => setFlashcard(data.find((item) => item.ID === Number(id))))
+      .catch((error) => setError(error.message))
+      .finally(() => setLoading(false));
+  }, [id]);
 
   const handleSpeedChange = (speed) => {
     setPlaybackSpeed(speed);
@@ -31,15 +30,16 @@ const FlashcardPage = () => {
 
   if (loading) return <div>🔄 Đang tải...</div>;
   if (error) return <div className="error">❌ {error}</div>;
+  if (!flashcard) return <div>Không tìm thấy flashcard.</div>;
 
   return (
     <div className="flashcard-detail-page">
-      <h1>{flashcard?.Word || "Không có dữ liệu"}</h1>
-      <p><strong>Nghĩa:</strong> {flashcard?.Meaning || "Không có dữ liệu"}</p>
-      <p><strong>Ví dụ (KR):</strong> {flashcard?.["Example(Korean)"] || "Không có dữ liệu"}</p>
-      <p><strong>Ví dụ (VN):</strong> {flashcard?.["Example(Vietnamese)"] || "Không có dữ liệu"}</p>
+      <h1>{flashcard.Word}</h1>
+      <p><strong>Nghĩa:</strong> {flashcard.Meaning}</p>
+      <p><strong>Ví dụ (KR):</strong> {flashcard["Example(Korean)"]}</p>
+      <p><strong>Ví dụ (VN):</strong> {flashcard["Example(Vietnamese)"]}</p>
 
-      {flashcard?.Audio && (
+      {flashcard.Audio && (
         <div className="audio-container">
           <audio ref={audioRef} controls>
             <source src={flashcard.Audio} type="audio/wav" />
