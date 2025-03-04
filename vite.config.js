@@ -10,7 +10,7 @@ export default defineConfig({
   optimizeDeps: {
     include: ['qrcode.react'],
   },
-  base: "/koreanstepone", // Cần thiết khi deploy trên Vercel
+  base: "/koreanstep", // Cần thiết khi deploy trên Vercel
   build: {
     outDir: "dist", // Thư mục chứa file build
   },

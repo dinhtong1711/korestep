@@ -5,7 +5,7 @@ import FlashcardPage from './FlashcardPage';
 import Footer from './Footer';
 function App() {
   return (
-    <Router basename="/">
+    <Router basename={import.meta.env.BASE_URL}>
       {/* <Navbar /> */}
       <Routes> {/* Sử dụng Routes thay vì Switch */}
         <Route path="/flashcards/:id" element={<FlashcardPage />} />

@@ -1,9 +1,5 @@
 {
-  "routes": [
-    {
-      "src": "/Data.json",
-      "dest": "/public/Data.json",
-      "headers": { "Cache-Control": "public, max-age=0, must-revalidate" }
-    }
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
