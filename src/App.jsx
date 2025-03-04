@@ -1,18 +1,15 @@
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom"; // Sử dụng Routes thay vì Switch
-// import Navbar from "./Navbar";
-import AudioFlashcard from './AudioFlashcard';
-import FlashcardPage from './FlashcardPage';
+import { Routes, Route } from 'react-router-dom';
+import AudioFlashcard from './AudioFlashcard.jsx';
+import FlashcardPage from './FlashcardPage.jsx';
+import './App.css';
 import Footer from './Footer';
 function App() {
   return (
-    <Router basename={import.meta.env.BASE_URL}>
-      {/* <Navbar /> */}
-      <Routes> {/* Sử dụng Routes thay vì Switch */}
-        <Route path="/flashcards/:id" element={<FlashcardPage />} />
-        <Route path="/" element={<AudioFlashcard />} />
-      </Routes>
+    <Routes>
+      <Route path="/" element={<AudioFlashcard />} />
+      <Route path="/flashcards/:id" element={<FlashcardPage />} />
       <Footer />
-    </Router>
+    </Routes>
   );
 }
 
