@@ -345,7 +345,7 @@
         "ID": 39,
         "Word": "수건",
         "Meaning": "Khăn tắm",
-        "Audio": "/audio/khăn_tam.wav",
+        "Audio": "/audio/khan_tam.wav",
         "Example(Korean)": "수건으로 얼굴을 닦아요. ",
         "Example(Vietnamese)": "Tôi lau mặt bằng khăn tắm.",
         "Topic": "Nhà Cửa"
@@ -813,7 +813,7 @@
         "ID": 91,
         "Word": "세제",
         "Meaning": "Chất tẩy rửa",
-        "Audio": "/audio/chat_tay_rac.wav",
+        "Audio": "/audio/chat_tay_rua.wav",
         "Example(Korean)": "세제로 그릇을 씻어요. ",
         "Example(Vietnamese)": "Tôi rửa bát bằng chất tẩy rửa.",
         "Topic": "Nhà Cửa"
@@ -838,15 +838,6 @@
     },
     {
         "ID": 94,
-        "Word": "수건",
-        "Meaning": "Khăn tắm",
-        "Audio": "/audio/khăn_tam.wav",
-        "Example(Korean)": "수건으로 몸을 닦아요. ",
-        "Example(Vietnamese)": "Tôi lau người bằng khăn tắm.",
-        "Topic": "Nhà Cửa"
-    },
-    {
-        "ID": 95,
         "Word": "양변기",
         "Meaning": "Bồn cầu",
         "Audio": "/audio/bon_cau.wav",
@@ -855,7 +846,7 @@
         "Topic": "Nhà Cửa"
     },
     {
-        "ID": 96,
+        "ID": 95,
         "Word": "비누",
         "Meaning": "Xà phòng",
         "Audio": "/audio/xa_phong.wav",
@@ -864,7 +855,7 @@
         "Topic": "Nhà Cửa"
     },
     {
-        "ID": 97,
+        "ID": 96,
         "Word": "치약",
         "Meaning": "Kem đánh răng",
         "Audio": "/audio/kem_danh_rang.wav",
@@ -873,7 +864,7 @@
         "Topic": "Nhà Cửa"
     },
     {
-        "ID": 98,
+        "ID": 97,
         "Word": "칫솔",
         "Meaning": "Bàn chải đánh răng",
         "Audio": "/audio/ban_chai_danh_rang.wav",
@@ -882,7 +873,7 @@
         "Topic": "Nhà Cửa"
     },
     {
-        "ID": 99,
+        "ID": 98,
         "Word": "세면대",
         "Meaning": "Bồn rửa mặt",
         "Audio": "/audio/bon_rua_mat.wav",
@@ -891,7 +882,7 @@
         "Topic": "Nhà Cửa"
     },
     {
-        "ID": 100,
+        "ID": 99,
         "Word": "욕실 매트",
         "Meaning": "Thảm phòng tắm",
         "Audio": "/audio/tham_phong_tam.wav",
@@ -900,7 +891,7 @@
         "Topic": "Nhà Cửa"
     },
     {
-        "ID": 101,
+        "ID": 100,
         "Word": "도시",
         "Meaning": "Thành phố",
         "Audio": "/audio/thanh_pho.wav",
@@ -909,7 +900,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 102,
+        "ID": 101,
         "Word": "거리",
         "Meaning": "Con đường",
         "Audio": "/audio/con_duong.wav",
@@ -918,7 +909,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 103,
+        "ID": 102,
         "Word": "건물",
         "Meaning": "Tòa nhà",
         "Audio": "/audio/toa_nha.wav",
@@ -927,7 +918,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 104,
+        "ID": 103,
         "Word": "아파트",
         "Meaning": "Chung cư",
         "Audio": "/audio/chung_cu.wav",
@@ -936,7 +927,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 105,
+        "ID": 104,
         "Word": "시장",
         "Meaning": "Chợ",
         "Audio": "/audio/cho.wav",
@@ -945,7 +936,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 106,
+        "ID": 105,
         "Word": "마트",
         "Meaning": "Siêu thị nhỏ",
         "Audio": "/audio/sieu_thi_nho.wav",
@@ -954,7 +945,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 107,
+        "ID": 106,
         "Word": "백화점",
         "Meaning": "Trung tâm thương mại",
         "Audio": "/audio/trung_tam_thuong_mai.wav",
@@ -963,7 +954,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 108,
+        "ID": 107,
         "Word": "공원",
         "Meaning": "Công viên",
         "Audio": "/audio/cong_vien.wav",
@@ -972,7 +963,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 109,
+        "ID": 108,
         "Word": "도로",
         "Meaning": "Đường sá",
         "Audio": "/audio/duong_sa.wav",
@@ -981,7 +972,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 110,
+        "ID": 109,
         "Word": "신호등",
         "Meaning": "Đèn giao thông",
         "Audio": "/audio/den_giao_thong.wav",
@@ -990,7 +981,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 111,
+        "ID": 110,
         "Word": "횡단보도",
         "Meaning": "Vạch sang đường",
         "Audio": "/audio/vach_sang_duong.wav",
@@ -999,7 +990,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 112,
+        "ID": 111,
         "Word": "교차로",
         "Meaning": "Ngã tư",
         "Audio": "/audio/nga_tu.wav",
@@ -1008,7 +999,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 113,
+        "ID": 112,
         "Word": "지하철",
         "Meaning": "Tàu điện ngầm",
         "Audio": "/audio/tau_dien_ngam.wav",
@@ -1017,16 +1008,16 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 114,
+        "ID": 113,
         "Word": "버스 정류장",
-        "Meaning": "Trạm xe buýt",
-        "Audio": "/audio/tram_xe_buýt.wav",
+        "Meaning": "Tram xe buyt",
+        "Audio": "/audio/tram_xe_buyt.wav",
         "Example(Korean)": "버스 정류장에서 기다려요.",
         "Example(Vietnamese)": "Tôi đang đợi ở trạm xe buýt.",
         "Topic": "Đô Thị"
     },
     {
-        "ID": 115,
+        "ID": 114,
         "Word": "기차역",
         "Meaning": "Ga tàu",
         "Audio": "/audio/ga_tau.wav",
@@ -1035,7 +1026,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 116,
+        "ID": 115,
         "Word": "택시",
         "Meaning": "Taxi",
         "Audio": "/audio/taxi.wav",
@@ -1044,7 +1035,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 117,
+        "ID": 116,
         "Word": "경찰서",
         "Meaning": "Đồn cảnh sát",
         "Audio": "/audio/don_canh_sat.wav",
@@ -1053,7 +1044,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 118,
+        "ID": 117,
         "Word": "소방서",
         "Meaning": "Trạm cứu hỏa",
         "Audio": "/audio/tram_cuu_hoa.wav",
@@ -1062,7 +1053,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 119,
+        "ID": 118,
         "Word": "우체국",
         "Meaning": "Bưu điện",
         "Audio": "/audio/buu_dien.wav",
@@ -1071,7 +1062,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 120,
+        "ID": 119,
         "Word": "은행",
         "Meaning": "Ngân hàng",
         "Audio": "/audio/ngan_hang.wav",
@@ -1080,7 +1071,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 121,
+        "ID": 120,
         "Word": "병원",
         "Meaning": "Bệnh viện",
         "Audio": "/audio/benh_vien.wav",
@@ -1089,7 +1080,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 122,
+        "ID": 121,
         "Word": "약국",
         "Meaning": "Hiệu thuốc",
         "Audio": "/audio/hieu_thuoc.wav",
@@ -1098,7 +1089,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 123,
+        "ID": 122,
         "Word": "호텔",
         "Meaning": "Khách sạn",
         "Audio": "/audio/khach_san.wav",
@@ -1107,7 +1098,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 124,
+        "ID": 123,
         "Word": "식당",
         "Meaning": "Nhà hàng",
         "Audio": "/audio/nha_hang.wav",
@@ -1116,7 +1107,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 125,
+        "ID": 124,
         "Word": "카페",
         "Meaning": "Quán cà phê",
         "Audio": "/audio/quan_ca_phe.wav",
@@ -1125,7 +1116,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 126,
+        "ID": 125,
         "Word": "빵집",
         "Meaning": "Tiệm bánh",
         "Audio": "/audio/tiem_banh.wav",
@@ -1134,7 +1125,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 127,
+        "ID": 126,
         "Word": "학교",
         "Meaning": "Trường học",
         "Audio": "/audio/truong_hoc.wav",
@@ -1143,7 +1134,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 128,
+        "ID": 127,
         "Word": "대학교",
         "Meaning": "Đại học",
         "Audio": "/audio/dai_hoc.wav",
@@ -1152,7 +1143,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 129,
+        "ID": 128,
         "Word": "도서관",
         "Meaning": "Thư viện",
         "Audio": "/audio/thu_vien.wav",
@@ -1161,7 +1152,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 130,
+        "ID": 129,
         "Word": "극장",
         "Meaning": "Rạp chiếu phim",
         "Audio": "/audio/rap_chieu_phim.wav",
@@ -1170,7 +1161,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 131,
+        "ID": 130,
         "Word": "박물관",
         "Meaning": "Bảo tàng",
         "Audio": "/audio/bao_tang.wav",
@@ -1179,7 +1170,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 132,
+        "ID": 131,
         "Word": "운동장",
         "Meaning": "Sân vận động",
         "Audio": "/audio/san_van_dong.wav",
@@ -1188,7 +1179,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 133,
+        "ID": 132,
         "Word": "경기장",
         "Meaning": "Sân thi đấu",
         "Audio": "/audio/san_thi_dau.wav",
@@ -1197,7 +1188,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 134,
+        "ID": 133,
         "Word": "놀이공원",
         "Meaning": "Công viên giải trí",
         "Audio": "/audio/cong_vien_giai_tri.wav",
@@ -1206,7 +1197,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 135,
+        "ID": 134,
         "Word": "체육관",
         "Meaning": "Nhà thi đấu",
         "Audio": "/audio/nha_thi_dau.wav",
@@ -1215,7 +1206,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 136,
+        "ID": 135,
         "Word": "미술관",
         "Meaning": "Viện bảo tàng nghệ thuật",
         "Audio": "/audio/vien_bao_tang_nghe_thuat.wav",
@@ -1224,7 +1215,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 137,
+        "ID": 136,
         "Word": "콘서트홀",
         "Meaning": "Nhà hát",
         "Audio": "/audio/nha_hat.wav",
@@ -1233,7 +1224,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 138,
+        "ID": 137,
         "Word": "주차장",
         "Meaning": "Bãi đỗ xe",
         "Audio": "/audio/bai_do_xe.wav",
@@ -1242,7 +1233,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 139,
+        "ID": 138,
         "Word": "터미널",
         "Meaning": "Bến xe",
         "Audio": "/audio/ben_xe.wav",
@@ -1251,7 +1242,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 140,
+        "ID": 139,
         "Word": "공항",
         "Meaning": "Sân bay",
         "Audio": "/audio/san_bay.wav",
@@ -1260,7 +1251,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 141,
+        "ID": 140,
         "Word": "기숙사",
         "Meaning": "Ký túc xá",
         "Audio": "/audio/ky_tuc_xa.wav",
@@ -1269,7 +1260,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 142,
+        "ID": 141,
         "Word": "사무실",
         "Meaning": "Văn phòng",
         "Audio": "/audio/van_phong.wav",
@@ -1278,7 +1269,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 143,
+        "ID": 142,
         "Word": "회관",
         "Meaning": "Hội quán",
         "Audio": "/audio/hoi_quan.wav",
@@ -1287,7 +1278,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 144,
+        "ID": 143,
         "Word": "정부청사",
         "Meaning": "Trụ sở chính phủ",
         "Audio": "/audio/tru_so_chinh_phu.wav",
@@ -1296,7 +1287,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 145,
+        "ID": 144,
         "Word": "법원",
         "Meaning": "Tòa án",
         "Audio": "/audio/toa_an.wav",
@@ -1305,7 +1296,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 146,
+        "ID": 145,
         "Word": "시청",
         "Meaning": "Tòa thị chính",
         "Audio": "/audio/toa_thi_chinh.wav",
@@ -1314,7 +1305,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 147,
+        "ID": 146,
         "Word": "구청",
         "Meaning": "Quận ủy",
         "Audio": "/audio/quan_uy.wav",
@@ -1323,7 +1314,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 148,
+        "ID": 147,
         "Word": "동사무소",
         "Meaning": "Phòng hành chính phường",
         "Audio": "/audio/phong_hanh_chinh_phuong.wav",
@@ -1332,7 +1323,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 149,
+        "ID": 148,
         "Word": "우편함",
         "Meaning": "Hộp thư",
         "Audio": "/audio/hop_thu.wav",
@@ -1341,7 +1332,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 150,
+        "ID": 149,
         "Word": "쓰레기통",
         "Meaning": "Thùng rác",
         "Audio": "/audio/thung_rac.wav",
@@ -1350,7 +1341,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 151,
+        "ID": 150,
         "Word": "가로등",
         "Meaning": "Đèn đường",
         "Audio": "/audio/den_duong.wav",
@@ -1359,7 +1350,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 152,
+        "ID": 151,
         "Word": "벽화",
         "Meaning": "Tranh tường",
         "Audio": "/audio/tranh_tuong.wav",
@@ -1368,7 +1359,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 153,
+        "ID": 152,
         "Word": "광장",
         "Meaning": "Quảng trường",
         "Audio": "/audio/quang_truong.wav",
@@ -1377,7 +1368,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 154,
+        "ID": 153,
         "Word": "분수",
         "Meaning": "Đài phun nước",
         "Audio": "/audio/dai_phun_nuoc.wav",
@@ -1386,7 +1377,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 155,
+        "ID": 154,
         "Word": "정류장",
         "Meaning": "Bến xe",
         "Audio": "/audio/ben_xe.wav",
@@ -1395,7 +1386,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 156,
+        "ID": 155,
         "Word": "자전거도로",
         "Meaning": "Đường dành cho xe đạp",
         "Audio": "/audio/duong_danh_cho_xe_dap.wav",
@@ -1404,7 +1395,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 157,
+        "ID": 156,
         "Word": "육교",
         "Meaning": "Cầu vượt",
         "Audio": "/audio/cau_vuot.wav",
@@ -1413,7 +1404,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 158,
+        "ID": 157,
         "Word": "지하도",
         "Meaning": "Hầm đi bộ",
         "Audio": "/audio/ham_di_bo.wav",
@@ -1422,7 +1413,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 159,
+        "ID": 158,
         "Word": "고가도로",
         "Meaning": "Cầu cạn",
         "Audio": "/audio/cau_can.wav",
@@ -1431,7 +1422,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 160,
+        "ID": 159,
         "Word": "도로표지판",
         "Meaning": "Biển báo đường",
         "Audio": "/audio/bien_bao_duong.wav",
@@ -1440,7 +1431,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 161,
+        "ID": 160,
         "Word": "교회",
         "Meaning": "Nhà thờ",
         "Audio": "/audio/nha_tho.wav",
@@ -1449,7 +1440,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 162,
+        "ID": 161,
         "Word": "절",
         "Meaning": "Chùa",
         "Audio": "/audio/chua.wav",
@@ -1458,7 +1449,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 163,
+        "ID": 162,
         "Word": "모스크",
         "Meaning": "Thánh đường Hồi giáo",
         "Audio": "/audio/thanh_duong_hoi_giao.wav",
@@ -1467,7 +1458,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 164,
+        "ID": 163,
         "Word": "성당",
         "Meaning": "Nhà thờ Công giáo",
         "Audio": "/audio/nha_tho_cong_giao.wav",
@@ -1476,7 +1467,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 165,
+        "ID": 164,
         "Word": "무역센터",
         "Meaning": "Trung tâm thương mại",
         "Audio": "/audio/trung_tam_thuong_mai.wav",
@@ -1485,7 +1476,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 166,
+        "ID": 165,
         "Word": "공장",
         "Meaning": "Nhà máy",
         "Audio": "/audio/nha_may.wav",
@@ -1494,7 +1485,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 167,
+        "ID": 166,
         "Word": "창고",
         "Meaning": "Kho hàng",
         "Audio": "/audio/kho_hang.wav",
@@ -1503,7 +1494,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 168,
+        "ID": 167,
         "Word": "수도시설",
         "Meaning": "Hệ thống cấp nước",
         "Audio": "/audio/he_thong_cap_nuoc.wav",
@@ -1512,7 +1503,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 169,
+        "ID": 168,
         "Word": "하수처리장",
         "Meaning": "Nhà máy xử lý nước thải",
         "Audio": "/audio/nha_may_xu_ly_nuoc_thai.wav",
@@ -1521,7 +1512,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 170,
+        "ID": 169,
         "Word": "전력회사",
         "Meaning": "Công ty điện lực",
         "Audio": "/audio/cong_ty_dien_luc.wav",
@@ -1530,16 +1521,16 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 171,
+        "ID": 170,
         "Word": "버스",
         "Meaning": "Xe buýt",
-        "Audio": "/audio/xe_buýt.wav",
+        "Audio": "/audio/xe_buyt.wav",
         "Example(Korean)": "버스를 타고 학교에 가요.",
         "Example(Vietnamese)": "Tôi đi học bằng xe buýt.",
         "Topic": "Đô Thị"
     },
     {
-        "ID": 172,
+        "ID": 171,
         "Word": "전철",
         "Meaning": "Tàu điện",
         "Audio": "/audio/tau_dien.wav",
@@ -1548,7 +1539,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 173,
+        "ID": 172,
         "Word": "오토바이",
         "Meaning": "Xe máy",
         "Audio": "/audio/xe_may.wav",
@@ -1557,7 +1548,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 174,
+        "ID": 173,
         "Word": "자전거",
         "Meaning": "Xe đạp",
         "Audio": "/audio/xe_dap.wav",
@@ -1566,7 +1557,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 175,
+        "ID": 174,
         "Word": "보행자",
         "Meaning": "Người đi bộ",
         "Audio": "/audio/nguoi_di_bo.wav",
@@ -1575,7 +1566,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 176,
+        "ID": 175,
         "Word": "택배",
         "Meaning": "Chuyển phát nhanh",
         "Audio": "/audio/chuyen_phat_nhanh.wav",
@@ -1584,7 +1575,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 177,
+        "ID": 176,
         "Word": "배달원",
         "Meaning": "Nhân viên giao hàng",
         "Audio": "/audio/nhan_vien_giao_hang.wav",
@@ -1593,7 +1584,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 178,
+        "ID": 177,
         "Word": "정비소",
         "Meaning": "Trạm sửa xe",
         "Audio": "/audio/tram_sua_xe.wav",
@@ -1602,7 +1593,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 179,
+        "ID": 178,
         "Word": "주유소",
         "Meaning": "Trạm xăng",
         "Audio": "/audio/tram_xang.wav",
@@ -1611,7 +1602,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 180,
+        "ID": 179,
         "Word": "휴게소",
         "Meaning": "Trạm nghỉ",
         "Audio": "/audio/tram_nghi.wav",
@@ -1620,7 +1611,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 181,
+        "ID": 180,
         "Word": "가로수",
         "Meaning": "Cây xanh ven đường",
         "Audio": "/audio/cay_xanh_ven_duong.wav",
@@ -1629,7 +1620,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 182,
+        "ID": 181,
         "Word": "화단",
         "Meaning": "Bồn hoa",
         "Audio": "/audio/bon_hoa.wav",
@@ -1638,7 +1629,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 183,
+        "ID": 182,
         "Word": "벤치",
         "Meaning": "Ghế đá",
         "Audio": "/audio/ghe_da.wav",
@@ -1647,7 +1638,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 184,
+        "ID": 183,
         "Word": "놀이터",
         "Meaning": "Khu vui chơi",
         "Audio": "/audio/khu_vui_choi.wav",
@@ -1656,7 +1647,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 185,
+        "ID": 184,
         "Word": "유치원",
         "Meaning": "Trường mẫu giáo",
         "Audio": "/audio/truong_mau_giao.wav",
@@ -1665,7 +1656,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 186,
+        "ID": 185,
         "Word": "초등학교",
         "Meaning": "Trường tiểu học",
         "Audio": "/audio/truong_tieu_hoc.wav",
@@ -1674,7 +1665,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 187,
+        "ID": 186,
         "Word": "중학교",
         "Meaning": "Trường trung học cơ sở",
         "Audio": "/audio/truong_trung_hoc_co_so.wav",
@@ -1683,7 +1674,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 188,
+        "ID": 187,
         "Word": "고등학교",
         "Meaning": "Trường trung học phổ thông",
         "Audio": "/audio/truong_trung_hoc_pho_thong.wav",
@@ -1692,7 +1683,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 189,
+        "ID": 188,
         "Word": "대학교도서관",
         "Meaning": "Thư viện đại học",
         "Audio": "/audio/thu_vien_dai_hoc.wav",
@@ -1701,7 +1692,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 190,
+        "ID": 189,
         "Word": "학생회관",
         "Meaning": "Nhà sinh viên",
         "Audio": "/audio/nha_sinh_vien.wav",
@@ -1710,7 +1701,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 191,
+        "ID": 190,
         "Word": "노인센터",
         "Meaning": "Trung tâm người cao tuổi",
         "Audio": "/audio/trung_tam_nguoi_cao_tuoi.wav",
@@ -1719,7 +1710,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 192,
+        "ID": 191,
         "Word": "보건소",
         "Meaning": "Trạm y tế",
         "Audio": "/audio/tram_y_te.wav",
@@ -1728,7 +1719,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 193,
+        "ID": 192,
         "Word": "장애인복지관",
         "Meaning": "Trung tâm phúc lợi cho người khuyết tật",
         "Audio": "/audio/trung_tam_phuc_loi_cho_nguoi_khuyet_tat.wav",
@@ -1737,7 +1728,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 194,
+        "ID": 193,
         "Word": "문화센터",
         "Meaning": "Trung tâm văn hóa",
         "Audio": "/audio/trung_tam_van_hoa.wav",
@@ -1746,7 +1737,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 195,
+        "ID": 194,
         "Word": "공공도서관",
         "Meaning": "Thư viện công cộng",
         "Audio": "/audio/thu_vien_cong_cong.wav",
@@ -1755,7 +1746,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 196,
+        "ID": 195,
         "Word": "운전면허시험장",
         "Meaning": "Trung tâm sát hạch lái xe",
         "Audio": "/audio/trung_tam_sat_hach_lai_xe.wav",
@@ -1764,7 +1755,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 197,
+        "ID": 196,
         "Word": "체육센터",
         "Meaning": "Trung tâm thể thao",
         "Audio": "/audio/trung_tam_the_thao.wav",
@@ -1773,7 +1764,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 198,
+        "ID": 197,
         "Word": "도시계획",
         "Meaning": "Quy hoạch đô thị",
         "Audio": "/audio/quy_hoach_do_thi.wav",
@@ -1782,7 +1773,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 199,
+        "ID": 198,
         "Word": "환경미화원",
         "Meaning": "Công nhân vệ sinh môi trường",
         "Audio": "/audio/cong_nhan_ve_sinh_moi_truong.wav",
@@ -1791,7 +1782,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 200,
+        "ID": 199,
         "Word": "도로공사",
         "Meaning": "Công trình đường bộ",
         "Audio": "/audio/cong_trinh_duong_bo.wav",
@@ -1800,7 +1791,7 @@
         "Topic": "Đô Thị"
     },
     {
-        "ID": 201,
+        "ID": 200,
         "Word": "산",
         "Meaning": "Núi",
         "Audio": "/audio/nui.wav",
@@ -1809,7 +1800,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 202,
+        "ID": 201,
         "Word": "강",
         "Meaning": "Sông",
         "Audio": "/audio/song.wav",
@@ -1818,7 +1809,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 203,
+        "ID": 202,
         "Word": "호수",
         "Meaning": "Hồ",
         "Audio": "/audio/ho.wav",
@@ -1827,7 +1818,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 204,
+        "ID": 203,
         "Word": "바다",
         "Meaning": "Biển",
         "Audio": "/audio/bien.wav",
@@ -1836,7 +1827,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 205,
+        "ID": 204,
         "Word": "하늘",
         "Meaning": "Bầu Trời",
         "Audio": "/audio/bau_troi.wav",
@@ -1845,7 +1836,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 206,
+        "ID": 205,
         "Word": "구름",
         "Meaning": "Mây",
         "Audio": "/audio/may.wav",
@@ -1854,7 +1845,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 207,
+        "ID": 206,
         "Word": "비",
         "Meaning": "Mưa",
         "Audio": "/audio/mua.wav",
@@ -1863,7 +1854,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 208,
+        "ID": 207,
         "Word": "눈",
         "Meaning": "Tuyết",
         "Audio": "/audio/tuyet.wav",
@@ -1872,7 +1863,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 209,
+        "ID": 208,
         "Word": "태양",
         "Meaning": "Mặt Trời",
         "Audio": "/audio/mat_troi.wav",
@@ -1881,7 +1872,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 210,
+        "ID": 209,
         "Word": "달",
         "Meaning": "Mặt Trăng",
         "Audio": "/audio/mat_trang.wav",
@@ -1890,7 +1881,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 211,
+        "ID": 210,
         "Word": "별",
         "Meaning": "Ngôi Sao",
         "Audio": "/audio/ngoi_sao.wav",
@@ -1899,7 +1890,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 212,
+        "ID": 211,
         "Word": "공기",
         "Meaning": "Không Khí",
         "Audio": "/audio/khong_khi.wav",
@@ -1908,7 +1899,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 213,
+        "ID": 212,
         "Word": "바람",
         "Meaning": "Gió",
         "Audio": "/audio/gio.wav",
@@ -1917,7 +1908,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 214,
+        "ID": 213,
         "Word": "숲",
         "Meaning": "Rừng",
         "Audio": "/audio/rung.wav",
@@ -1926,7 +1917,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 215,
+        "ID": 214,
         "Word": "풀",
         "Meaning": "Cỏ",
         "Audio": "/audio/co.wav",
@@ -1935,7 +1926,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 216,
+        "ID": 215,
         "Word": "나무",
         "Meaning": "Cây",
         "Audio": "/audio/cay.wav",
@@ -1944,7 +1935,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 217,
+        "ID": 216,
         "Word": "꽃",
         "Meaning": "Hoa",
         "Audio": "/audio/hoa.wav",
@@ -1953,7 +1944,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 218,
+        "ID": 217,
         "Word": "잎",
         "Meaning": "Lá",
         "Audio": "/audio/la.wav",
@@ -1962,7 +1953,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 219,
+        "ID": 218,
         "Word": "흙",
         "Meaning": "Đất",
         "Audio": "/audio/dat.wav",
@@ -1971,7 +1962,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 220,
+        "ID": 219,
         "Word": "돌",
         "Meaning": "Đá",
         "Audio": "/audio/da.wav",
@@ -1980,7 +1971,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 221,
+        "ID": 220,
         "Word": "모래",
         "Meaning": "Cát",
         "Audio": "/audio/cat.wav",
@@ -1989,7 +1980,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 222,
+        "ID": 221,
         "Word": "폭포",
         "Meaning": "Thác Nước",
         "Audio": "/audio/thac_nuoc.wav",
@@ -1998,7 +1989,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 223,
+        "ID": 222,
         "Word": "계곡",
         "Meaning": "Thung Lũng",
         "Audio": "/audio/thung_lung.wav",
@@ -2007,7 +1998,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 224,
+        "ID": 223,
         "Word": "해변",
         "Meaning": "Bờ Biển",
         "Audio": "/audio/bo_bien.wav",
@@ -2016,7 +2007,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 225,
+        "ID": 224,
         "Word": "초원",
         "Meaning": "Đồng Cỏ",
         "Audio": "/audio/dong_co.wav",
@@ -2025,7 +2016,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 226,
+        "ID": 225,
         "Word": "들판",
         "Meaning": "Cánh Đồng",
         "Audio": "/audio/canh_dong.wav",
@@ -2034,7 +2025,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 227,
+        "ID": 226,
         "Word": "농장",
         "Meaning": "Nông Trại",
         "Audio": "/audio/nong_trai.wav",
@@ -2043,7 +2034,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 228,
+        "ID": 227,
         "Word": "밭",
         "Meaning": "Ruộng",
         "Audio": "/audio/ruong.wav",
@@ -2052,7 +2043,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 229,
+        "ID": 228,
         "Word": "논",
         "Meaning": "Ruộng Lúa",
         "Audio": "/audio/ruong_lua.wav",
@@ -2061,7 +2052,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 230,
+        "ID": 229,
         "Word": "덩굴",
         "Meaning": "Dây Leo",
         "Audio": "/audio/day_leo.wav",
@@ -2070,7 +2061,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 231,
+        "ID": 230,
         "Word": "연못",
         "Meaning": "Ao",
         "Audio": "/audio/ao.wav",
@@ -2079,7 +2070,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 232,
+        "ID": 231,
         "Word": "개울",
         "Meaning": "Suối Nhỏ",
         "Audio": "/audio/suoi_nho.wav",
@@ -2088,7 +2079,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 233,
+        "ID": 232,
         "Word": "바위",
         "Meaning": "Tảng Đá",
         "Audio": "/audio/tang_da.wav",
@@ -2097,7 +2088,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 234,
+        "ID": 233,
         "Word": "동굴",
         "Meaning": "Hang Động",
         "Audio": "/audio/hang_dong.wav",
@@ -2106,7 +2097,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 235,
+        "ID": 234,
         "Word": "오아시스",
         "Meaning": "Ốc Đảo",
         "Audio": "/audio/oc_dao.wav",
@@ -2115,7 +2106,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 236,
+        "ID": 235,
         "Word": "사막",
         "Meaning": "Sa Mạc",
         "Audio": "/audio/sa_mac.wav",
@@ -2124,7 +2115,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 237,
+        "ID": 236,
         "Word": "지진",
         "Meaning": "Động Đất",
         "Audio": "/audio/dong_dat.wav",
@@ -2133,7 +2124,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 238,
+        "ID": 237,
         "Word": "화산",
         "Meaning": "Núi Lửa",
         "Audio": "/audio/nui_lua.wav",
@@ -2142,7 +2133,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 239,
+        "ID": 238,
         "Word": "폭풍",
         "Meaning": "Bão",
         "Audio": "/audio/bao.wav",
@@ -2151,7 +2142,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 240,
+        "ID": 239,
         "Word": "번개",
         "Meaning": "Tia Chớp",
         "Audio": "/audio/tia_chop.wav",
@@ -2160,7 +2151,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 241,
+        "ID": 240,
         "Word": "천둥",
         "Meaning": "Sấm",
         "Audio": "/audio/sam.wav",
@@ -2169,7 +2160,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 242,
+        "ID": 241,
         "Word": "무지개",
         "Meaning": "Cầu Vồng",
         "Audio": "/audio/cau_vong.wav",
@@ -2178,7 +2169,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 243,
+        "ID": 242,
         "Word": "계절",
         "Meaning": "Mùa",
         "Audio": "/audio/mua.wav",
@@ -2187,7 +2178,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 244,
+        "ID": 243,
         "Word": "봄",
         "Meaning": "Mùa Xuân",
         "Audio": "/audio/mua_xuan.wav",
@@ -2196,7 +2187,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 245,
+        "ID": 244,
         "Word": "여름",
         "Meaning": "Mùa Hè",
         "Audio": "/audio/mua_he.wav",
@@ -2205,7 +2196,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 246,
+        "ID": 245,
         "Word": "가을",
         "Meaning": "Mùa Thu",
         "Audio": "/audio/mua_thu.wav",
@@ -2214,7 +2205,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 247,
+        "ID": 246,
         "Word": "겨울",
         "Meaning": "Mùa Đông",
         "Audio": "/audio/mua_dong.wav",
@@ -2223,7 +2214,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 248,
+        "ID": 247,
         "Word": "온도",
         "Meaning": "Nhiệt Độ",
         "Audio": "/audio/nhiet_do.wav",
@@ -2232,7 +2223,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 249,
+        "ID": 248,
         "Word": "기온",
         "Meaning": "Nhiệt Độ Không Khí",
         "Audio": "/audio/nhiet_do_khong_khi.wav",
@@ -2241,7 +2232,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 250,
+        "ID": 249,
         "Word": "습도",
         "Meaning": "Độ Ẩm",
         "Audio": "/audio/do_am.wav",
@@ -2250,7 +2241,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 251,
+        "ID": 250,
         "Word": "맑음",
         "Meaning": "Trời Trong",
         "Audio": "/audio/troi_trong.wav",
@@ -2259,7 +2250,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 252,
+        "ID": 251,
         "Word": "흐림",
         "Meaning": "Trời Âm U",
         "Audio": "/audio/troi_am_u.wav",
@@ -2268,7 +2259,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 253,
+        "ID": 252,
         "Word": "자연",
         "Meaning": "Thiên Nhiên",
         "Audio": "/audio/thien_nhien.wav",
@@ -2277,7 +2268,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 254,
+        "ID": 253,
         "Word": "환경",
         "Meaning": "Môi Trường",
         "Audio": "/audio/moi_truong.wav",
@@ -2286,7 +2277,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 255,
+        "ID": 254,
         "Word": "공원",
         "Meaning": "Công Viên",
         "Audio": "/audio/cong_vien.wav",
@@ -2295,7 +2286,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 256,
+        "ID": 255,
         "Word": "동물",
         "Meaning": "Động Vật",
         "Audio": "/audio/dong_vat.wav",
@@ -2304,7 +2295,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 257,
+        "ID": 256,
         "Word": "새",
         "Meaning": "Chim",
         "Audio": "/audio/chim.wav",
@@ -2313,7 +2304,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 258,
+        "ID": 257,
         "Word": "물고기",
         "Meaning": "Cá",
         "Audio": "/audio/ca.wav",
@@ -2322,7 +2313,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 259,
+        "ID": 258,
         "Word": "벌레",
         "Meaning": "Côn Trùng",
         "Audio": "/audio/con_trung.wav",
@@ -2331,7 +2322,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 260,
+        "ID": 259,
         "Word": "나비",
         "Meaning": "Bướm",
         "Audio": "/audio/buom.wav",
@@ -2340,7 +2331,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 261,
+        "ID": 260,
         "Word": "벌",
         "Meaning": "Ong",
         "Audio": "/audio/ong.wav",
@@ -2349,7 +2340,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 262,
+        "ID": 261,
         "Word": "개미",
         "Meaning": "Kiến",
         "Audio": "/audio/kien.wav",
@@ -2358,7 +2349,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 263,
+        "ID": 262,
         "Word": "거미",
         "Meaning": "Nhện",
         "Audio": "/audio/nhien.wav",
@@ -2367,7 +2358,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 264,
+        "ID": 263,
         "Word": "달팽이",
         "Meaning": "Ốc Sên",
         "Audio": "/audio/oc_sen.wav",
@@ -2376,7 +2367,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 265,
+        "ID": 264,
         "Word": "개",
         "Meaning": "Chó",
         "Audio": "/audio/cho.wav",
@@ -2385,7 +2376,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 266,
+        "ID": 265,
         "Word": "고양이",
         "Meaning": "Mèo",
         "Audio": "/audio/meo.wav",
@@ -2394,7 +2385,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 267,
+        "ID": 266,
         "Word": "사슴",
         "Meaning": "Hươu",
         "Audio": "/audio/huou.wav",
@@ -2403,16 +2394,16 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 268,
+        "ID": 267,
         "Word": "토끼",
         "Meaning": "Thỏ",
-        "Audio": "/audio/thỏ.wav",
+        "Audio": "/audio/tho.wav",
         "Example(Korean)": "토끼가 풀을 먹어요.",
         "Example(Vietnamese)": "Thỏ đang ăn cỏ.",
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 269,
+        "ID": 268,
         "Word": "늑대",
         "Meaning": "Sói",
         "Audio": "/audio/soi.wav",
@@ -2421,7 +2412,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 270,
+        "ID": 269,
         "Word": "곰",
         "Meaning": "Gấu",
         "Audio": "/audio/gau.wav",
@@ -2430,7 +2421,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 271,
+        "ID": 270,
         "Word": "여우",
         "Meaning": "Cáo",
         "Audio": "/audio/ca_o.wav",
@@ -2439,7 +2430,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 272,
+        "ID": 271,
         "Word": "코끼리",
         "Meaning": "Voi",
         "Audio": "/audio/voi.wav",
@@ -2448,7 +2439,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 273,
+        "ID": 272,
         "Word": "해",
         "Meaning": "Mặt Trời",
         "Audio": "/audio/mat_troi.wav",
@@ -2457,7 +2448,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 274,
+        "ID": 273,
         "Word": "일출",
         "Meaning": "Bình Minh",
         "Audio": "/audio/binh_minh.wav",
@@ -2466,7 +2457,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 275,
+        "ID": 274,
         "Word": "일몰",
         "Meaning": "Hoàng Hôn",
         "Audio": "/audio/hoang_hon.wav",
@@ -2475,7 +2466,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 276,
+        "ID": 275,
         "Word": "서리",
         "Meaning": "Sương Muối",
         "Audio": "/audio/suong_muoi.wav",
@@ -2484,7 +2475,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 277,
+        "ID": 276,
         "Word": "안개",
         "Meaning": "Sương Mù",
         "Audio": "/audio/suong_mu.wav",
@@ -2493,7 +2484,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 278,
+        "ID": 277,
         "Word": "이슬",
         "Meaning": "Giọt Sương",
         "Audio": "/audio/giot_suong.wav",
@@ -2502,7 +2493,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 279,
+        "ID": 278,
         "Word": "자갈",
         "Meaning": "Sỏi",
         "Audio": "/audio/soi.wav",
@@ -2511,7 +2502,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 280,
+        "ID": 279,
         "Word": "진흙",
         "Meaning": "Bùn",
         "Audio": "/audio/bun.wav",
@@ -2520,7 +2511,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 281,
+        "ID": 280,
         "Word": "화석",
         "Meaning": "Hóa Thạch",
         "Audio": "/audio/hoa_thach.wav",
@@ -2529,7 +2520,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 282,
+        "ID": 281,
         "Word": "파도",
         "Meaning": "Sóng Biển",
         "Audio": "/audio/song_bien.wav",
@@ -2538,7 +2529,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 283,
+        "ID": 282,
         "Word": "조수",
         "Meaning": "Thủy Triều",
         "Audio": "/audio/thuy_trieu.wav",
@@ -2547,7 +2538,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 284,
+        "ID": 283,
         "Word": "바닷물",
         "Meaning": "Nước Biển",
         "Audio": "/audio/nuoc_bien.wav",
@@ -2556,7 +2547,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 285,
+        "ID": 284,
         "Word": "민물",
         "Meaning": "Nước Ngọt",
         "Audio": "/audio/nuoc_ngot.wav",
@@ -2565,7 +2556,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 286,
+        "ID": 285,
         "Word": "고원",
         "Meaning": "Cao Nguyên",
         "Audio": "/audio/cao_nguyen.wav",
@@ -2574,7 +2565,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 287,
+        "ID": 286,
         "Word": "화강암",
         "Meaning": "Đá Hoa Cương",
         "Audio": "/audio/da_hoa_cuong.wav",
@@ -2583,7 +2574,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 288,
+        "ID": 287,
         "Word": "석탄",
         "Meaning": "Than Đá",
         "Audio": "/audio/than_da.wav",
@@ -2592,7 +2583,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 289,
+        "ID": 288,
         "Word": "금속",
         "Meaning": "Kim Loại",
         "Audio": "/audio/kim_loai.wav",
@@ -2601,7 +2592,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 290,
+        "ID": 289,
         "Word": "기후",
         "Meaning": "Khí Hậu",
         "Audio": "/audio/khi_hau.wav",
@@ -2610,7 +2601,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 291,
+        "ID": 290,
         "Word": "하천",
         "Meaning": "Suối, Dòng Nước",
         "Audio": "/audio/suoi_dong_nuoc.wav",
@@ -2619,7 +2610,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 292,
+        "ID": 291,
         "Word": "늪",
         "Meaning": "Đầm Lầy",
         "Audio": "/audio/dam_lay.wav",
@@ -2628,7 +2619,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 293,
+        "ID": 292,
         "Word": "자갈밭",
         "Meaning": "Bãi Sỏi",
         "Audio": "/audio/bai_soi.wav",
@@ -2637,7 +2628,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 294,
+        "ID": 293,
         "Word": "동식물",
         "Meaning": "Động Thực Vật",
         "Audio": "/audio/dong_thuc_vat.wav",
@@ -2646,7 +2637,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 295,
+        "ID": 294,
         "Word": "씨앗",
         "Meaning": "Hạt Giống",
         "Audio": "/audio/hat_giong.wav",
@@ -2655,7 +2646,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 296,
+        "ID": 295,
         "Word": "뿌리",
         "Meaning": "Rễ Cây",
         "Audio": "/audio/ruot_cay.wav",
@@ -2664,7 +2655,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 297,
+        "ID": 296,
         "Word": "가지",
         "Meaning": "Cành Cây",
         "Audio": "/audio/canh_cay.wav",
@@ -2673,7 +2664,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 298,
+        "ID": 297,
         "Word": "가시",
         "Meaning": "Gai",
         "Audio": "/audio/gai.wav",
@@ -2682,7 +2673,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 299,
+        "ID": 298,
         "Word": "덩굴식물",
         "Meaning": "Cây Leo",
         "Audio": "/audio/cay_leo.wav",
@@ -2691,7 +2682,7 @@
         "Topic": "Thiên Nhiên"
     },
     {
-        "ID": 300,
+        "ID": 299,
         "Word": "가격표 ",
         "Meaning": "Bảng giá",
         "Audio": "/audio/bang_gia.wav",
@@ -2700,7 +2691,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 301,
+        "ID": 300,
         "Word": "가공비 ",
         "Meaning": "Phí gia công",
         "Audio": "/audio/phi_gia_cong.wav",
@@ -2709,7 +2700,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 302,
+        "ID": 301,
         "Word": "가산금액 ",
         "Meaning": "Giá trị gia tăng",
         "Audio": "/audio/gia_tri_gia_tang.wav",
@@ -2718,7 +2709,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 303,
+        "ID": 302,
         "Word": "가송장 \n",
         "Meaning": "Hóa đơn tạm thời",
         "Audio": "/audio/hoa_don_tam_thoi.wav",
@@ -2727,7 +2718,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 304,
+        "ID": 303,
         "Word": "나용선 \n",
         "Meaning": "Thuê tàu trần",
         "Audio": "/audio/thue_tau_tran.wav",
@@ -2736,7 +2727,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 305,
+        "ID": 304,
         "Word": "나화물\n",
         "Meaning": "Hàng hóa chưa đóng gói",
         "Audio": "/audio/hang_hoa_chua_dong_goi.wav",
@@ -2745,7 +2736,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 306,
+        "ID": 305,
         "Word": "포장화물\n",
         "Meaning": "Hàng hóa đóng gói",
         "Audio": "/audio/hang_hoa_dong_goi.wav",
@@ -2754,7 +2745,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 307,
+        "ID": 306,
         "Word": "내국선하증권 ",
         "Meaning": "Vận đơn nội địa",
         "Audio": "/audio/van_don_noi_dia.wav",
@@ -2763,7 +2754,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 308,
+        "ID": 307,
         "Word": "내국수로선하증권 ",
         "Meaning": "Vận đơn đường thủy nội địa",
         "Audio": "/audio/van_don_duong_thuy_noi_dia.wav",
@@ -2772,7 +2763,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 309,
+        "ID": 308,
         "Word": "내륙운송 확장담보조건 \n",
         "Meaning": "Điều khoản bảo hiểm mở rộng vận chuyển nội địa",
         "Audio": "/audio/dieu_khoan_bao_hiem_mo_rong_van_chuyen_noi_dia.wav",
@@ -2781,7 +2772,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 310,
+        "ID": 309,
         "Word": "당사국\n",
         "Meaning": "Quốc gia có tham gia",
         "Audio": "/audio/quoc_gia_co_tham_gia.wav",
@@ -2790,7 +2781,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 311,
+        "ID": 310,
         "Word": "대금결제인\n",
         "Meaning": "Người thanh toán",
         "Audio": "/audio/nguoi_thanh_toan.wav",
@@ -2799,7 +2790,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 312,
+        "ID": 311,
         "Word": "대금교환불\n",
         "Meaning": "Thanh toán khi nhận hàng",
         "Audio": "/audio/thanh_toan_khi_nhan_hang.wav",
@@ -2808,7 +2799,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 313,
+        "ID": 312,
         "Word": "내륙보관 확장담보조건 ",
         "Meaning": "Điều khoản mở rộng bảo hiểm kho nội địa",
         "Audio": "/audio/dieu_khoan_mo_rong_bao_hiem_kho_noi_dia.wav",
@@ -2817,7 +2808,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 314,
+        "ID": 313,
         "Word": "내륙수송비 ",
         "Meaning": "Phí vận chuyển nội địa",
         "Audio": "/audio/phi_van_chuyen_noi_dia.wav",
@@ -2826,7 +2817,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 315,
+        "ID": 314,
         "Word": "만재화물 ",
         "Meaning": "Hàng hóa đầy tải",
         "Audio": "/audio/hang_hoa_day_tai.wav",
@@ -2835,7 +2826,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 316,
+        "ID": 315,
         "Word": "매매계약\n",
         "Meaning": "Hợp đồng mua bán",
         "Audio": "/audio/hop_dong_mua_ban.wav",
@@ -2844,7 +2835,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 317,
+        "ID": 316,
         "Word": "매도청약 ",
         "Meaning": "Chào bán/Chào mua",
         "Audio": "/audio/chao_ban.wav",
@@ -2853,7 +2844,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 318,
+        "ID": 317,
         "Word": "바이-백  ",
         "Meaning": "Mua lại",
         "Audio": "/audio/mua_lai.wav",
@@ -2862,7 +2853,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 319,
+        "ID": 318,
         "Word": "연계무역 ",
         "Meaning": "Thương mại đối lưu",
         "Audio": "/audio/thuong_mai_doi_luu.wav",
@@ -2871,7 +2862,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 320,
+        "ID": 319,
         "Word": "반덤핑 ",
         "Meaning": "Chống bán phá giá",
         "Audio": "/audio/chong_ban_pha_gia.wav",
@@ -2880,7 +2871,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 321,
+        "ID": 320,
         "Word": "반송품  ",
         "Meaning": "Hàng trả lại",
         "Audio": "/audio/hang_tra_lai.wav",
@@ -2889,7 +2880,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 322,
+        "ID": 321,
         "Word": "발동가격 ",
         "Meaning": "Giá kích hoạt",
         "Audio": "/audio/gia_kich_hoat.wav",
@@ -2898,7 +2889,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 323,
+        "ID": 322,
         "Word": "사고선하증권 ",
         "Meaning": "Chứng từ vận đơn lỗi/ chứng từ vận đơn không hoàn hảo",
         "Audio": "/audio/chung_tu_van_don_loi.wav",
@@ -2907,7 +2898,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 324,
+        "ID": 323,
         "Word": "사고의 통지 ",
         "Meaning": "Thông báo tổn thất",
         "Audio": "/audio/thong_bao_ton_that.wav",
@@ -2916,7 +2907,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 325,
+        "ID": 324,
         "Word": "사이버무역  ",
         "Meaning": "Thương mại điện tử",
         "Audio": "/audio/thuong_mai_dien_tu.wav",
@@ -2925,7 +2916,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 326,
+        "ID": 325,
         "Word": "사전송금방식 수입",
         "Meaning": "Nhập khẩu thanh toán trước",
         "Audio": "/audio/nhap_khau_thanh_toan_truoc.wav",
@@ -2934,7 +2925,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 327,
+        "ID": 326,
         "Word": "사후송금  ",
         "Meaning": "Thanh toán sau",
         "Audio": "/audio/thanh_toan_sau.wav",
@@ -2943,7 +2934,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 328,
+        "ID": 327,
         "Word": "벌크 화물",
         "Meaning": "Hàng rời/ hàng xá",
         "Audio": "/audio/hang_roi.wav",
@@ -2952,7 +2943,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 329,
+        "ID": 328,
         "Word": "아시아태평양경제협력체 ",
         "Meaning": "Diễn đàn Hợp tác Kinh tế châu Á – Thái Bình Dương",
         "Audio": "/audio/dien_dan_hop_tac_kinh_te_chau_A_thai_binh_duong.wav",
@@ -2961,7 +2952,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 330,
+        "ID": 329,
         "Word": "액체화물\n",
         "Meaning": "Hàng hóa dạng lỏng",
         "Audio": "/audio/hang_hoa_dang_loi.wav",
@@ -2970,7 +2961,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 331,
+        "ID": 330,
         "Word": "기체화물\n",
         "Meaning": "Hàng hóa dạng khí",
         "Audio": "/audio/hang_hoa_dang_khi.wav",
@@ -2979,7 +2970,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 332,
+        "ID": 331,
         "Word": "고형화물\n",
         "Meaning": "Hàng hóa dạng rắn",
         "Audio": "/audio/hang_hoa_dang_ran.wav",
@@ -2988,7 +2979,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 333,
+        "ID": 332,
         "Word": "자유무역지구 \n",
         "Meaning": "Khu vực cảng tự do",
         "Audio": "/audio/khu_vuc_cang_tu_do.wav",
@@ -2997,7 +2988,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 334,
+        "ID": 333,
         "Word": "자유무역지역 \n",
         "Meaning": "Khu vực thương mại / mậu dịch tự do",
         "Audio": "/audio/khu_vuc_thuong_mai.wav",
@@ -3006,7 +2997,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 335,
+        "ID": 334,
         "Word": "차변표\n",
         "Meaning": "Giấy báo nợ",
         "Audio": "/audio/giay_bao_no.wav",
@@ -3015,7 +3006,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 336,
+        "ID": 335,
         "Word": "컨테이너 선 \n",
         "Meaning": "Tàu container",
         "Audio": "/audio/tau_container.wav",
@@ -3024,7 +3015,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 337,
+        "ID": 336,
         "Word": "파손화물보상장\n",
         "Meaning": "Thư bồi thường",
         "Audio": "/audio/thu_boi_thuong.wav",
@@ -3033,7 +3024,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 338,
+        "ID": 337,
         "Word": "컨테이너 선하증권 ",
         "Meaning": "Vận đơn tàu container (Container B/L, FCL B/L, LCL B/L)",
         "Audio": "/audio/van_don_tau_container.wav",
@@ -3042,7 +3033,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 339,
+        "ID": 338,
         "Word": "하청계약 \n",
         "Meaning": "Hợp đồng thầu phụ",
         "Audio": "/audio/hop_dong_thau_phu.wav",
@@ -3051,7 +3042,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 340,
+        "ID": 339,
         "Word": "원청계약\n",
         "Meaning": "Hợp đồng thầu chính",
         "Audio": "/audio/hop_dong_thau_chinh.wav",
@@ -3060,7 +3051,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 341,
+        "ID": 340,
         "Word": "탁송품 \n",
         "Meaning": "Hàng hóa ký gửi",
         "Audio": "/audio/hang_hoa_ky_gui.wav",
@@ -3069,7 +3060,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 342,
+        "ID": 341,
         "Word": "하역준비 완료통지 ",
         "Meaning": "Thông báo hoàn tất chuẩn bị bốc hàng",
         "Audio": "/audio/thong_bao_hoan_tat_chuan_bi_boc_hang.wav",
@@ -3078,7 +3069,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 343,
+        "ID": 342,
         "Word": "양륙준비 완료통지  ",
         "Meaning": "Thông báo hoàn tất chuẩn bị dỡ hàng",
         "Audio": "/audio/thong_bao_hoan_tat_chuan_bi_do_hang.wav",
@@ -3087,7 +3078,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 344,
+        "ID": 343,
         "Word": "내국신용장 \n",
         "Meaning": "Thư tín dụng nội địa",
         "Audio": "/audio/thu_tin_dung_noi_dia.wav",
@@ -3096,7 +3087,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 345,
+        "ID": 344,
         "Word": "내국신용장종류\n",
         "Meaning": "Các loại thư tín dụng nội địa",
         "Audio": "/audio/cac_loai_thu_tin_dung_noi_dia.wav",
@@ -3105,7 +3096,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 346,
+        "ID": 345,
         "Word": "유통기간",
         "Meaning": "Thời hạn sử dụng",
         "Audio": "/audio/thoi_han_su_dung.wav",
@@ -3114,7 +3105,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 347,
+        "ID": 346,
         "Word": "제품고",
         "Meaning": "Lượng hàng trong kho",
         "Audio": "/audio/luong_hang_trong_kho.wav",
@@ -3123,7 +3114,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 348,
+        "ID": 347,
         "Word": "시스템에서 업데이트",
         "Meaning": "Cập nhật lên hệ thống",
         "Audio": "/audio/cap_nhat_len_he_thong.wav",
@@ -3132,7 +3123,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 349,
+        "ID": 348,
         "Word": "출입고",
         "Meaning": "Kho hàng",
         "Audio": "/audio/kho_hang.wav",
@@ -3141,7 +3132,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 350,
+        "ID": 349,
         "Word": "매니저",
         "Meaning": "Người quản lí",
         "Audio": "/audio/nguoi_quan_li.wav",
@@ -3150,7 +3141,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 351,
+        "ID": 350,
         "Word": "레드 인보이스",
         "Meaning": "Hóa đơn đỏ",
         "Audio": "/audio/hoa_don_do.wav",
@@ -3159,7 +3150,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 352,
+        "ID": 351,
         "Word": "판매량",
         "Meaning": "Lượng hàng bán ra",
         "Audio": "/audio/luong_hang_ban_ra.wav",
@@ -3168,7 +3159,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 353,
+        "ID": 352,
         "Word": "시장 수요",
         "Meaning": "Nhu cầu của thị trường",
         "Audio": "/audio/nhu_cau_cua_thi_truong.wav",
@@ -3177,7 +3168,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 354,
+        "ID": 353,
         "Word": "수령",
         "Meaning": "Nhận (hàng)",
         "Audio": "/audio/nhan_hang.wav",
@@ -3186,7 +3177,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 355,
+        "ID": 354,
         "Word": "프로모션",
         "Meaning": "Chương trình khuyến mãi",
         "Audio": "/audio/chuong_trinh_khuyen_mai.wav",
@@ -3195,7 +3186,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 356,
+        "ID": 355,
         "Word": "경품",
         "Meaning": "Tặng phẩm",
         "Audio": "/audio/tang_pham.wav",
@@ -3204,7 +3195,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 357,
+        "ID": 356,
         "Word": "추첨 행사",
         "Meaning": "Chương trình bốc thăm trúng thưởng",
         "Audio": "/audio/chuong_trinh_boc_tham_trung_thuong.wav",
@@ -3213,7 +3204,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 358,
+        "ID": 357,
         "Word": "쿠폰",
         "Meaning": "Phiếu giảm giá",
         "Audio": "/audio/phieu_giam_gia.wav",
@@ -3222,7 +3213,7 @@
         "Topic": "Kinh doanh"
     },
     {
-        "ID": 359,
+        "ID": 358,
         "Word": "의사",
         "Meaning": "Bác sĩ",
         "Audio": "/audio/bac_si.wav",
@@ -3231,7 +3222,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 360,
+        "ID": 359,
         "Word": "간호사",
         "Meaning": "Y tá",
         "Audio": "/audio/y_ta.wav",
@@ -3240,7 +3231,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 361,
+        "ID": 360,
         "Word": "약사",
         "Meaning": "Dược sĩ",
         "Audio": "/audio/duoc_si.wav",
@@ -3249,7 +3240,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 362,
+        "ID": 361,
         "Word": "경찰관",
         "Meaning": "Cảnh sát",
         "Audio": "/audio/canh_sat.wav",
@@ -3258,7 +3249,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 363,
+        "ID": 362,
         "Word": "소방관",
         "Meaning": "Lính cứu hỏa",
         "Audio": "/audio/linh_cuu_hoa.wav",
@@ -3267,7 +3258,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 364,
+        "ID": 363,
         "Word": "선생님",
         "Meaning": "Giáo viên",
         "Audio": "/audio/giao_vien.wav",
@@ -3276,7 +3267,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 365,
+        "ID": 364,
         "Word": "교수",
         "Meaning": "Giáo sư",
         "Audio": "/audio/giao_su.wav",
@@ -3285,7 +3276,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 366,
+        "ID": 365,
         "Word": "변호사",
         "Meaning": "Luật sư",
         "Audio": "/audio/luat_su.wav",
@@ -3294,7 +3285,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 367,
+        "ID": 366,
         "Word": "판사",
         "Meaning": "Thẩm phán",
         "Audio": "/audio/tham_phan.wav",
@@ -3303,7 +3294,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 368,
+        "ID": 367,
         "Word": "기자",
         "Meaning": "Nhà báo",
         "Audio": "/audio/nha_bao.wav",
@@ -3312,7 +3303,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 369,
+        "ID": 368,
         "Word": "작가",
         "Meaning": "Nhà văn",
         "Audio": "/audio/nha_van.wav",
@@ -3321,7 +3312,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 370,
+        "ID": 369,
         "Word": "번역가",
         "Meaning": "Biên dịch viên",
         "Audio": "/audio/bien_dich_vien.wav",
@@ -3330,7 +3321,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 371,
+        "ID": 370,
         "Word": "통역사",
         "Meaning": "Phiên dịch viên",
         "Audio": "/audio/phien_dich_vien.wav",
@@ -3339,7 +3330,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 372,
+        "ID": 371,
         "Word": "경영자",
         "Meaning": "Nhà quản lý",
         "Audio": "/audio/nha_quan_ly.wav",
@@ -3348,7 +3339,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 373,
+        "ID": 372,
         "Word": "회사원",
         "Meaning": "Nhân viên công ty",
         "Audio": "/audio/nhan_vien_cong_ty.wav",
@@ -3357,7 +3348,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 374,
+        "ID": 373,
         "Word": "은행원",
         "Meaning": "Nhân viên ngân hàng",
         "Audio": "/audio/nhan_vien_ngan_hang.wav",
@@ -3366,7 +3357,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 375,
+        "ID": 374,
         "Word": "회계사",
         "Meaning": "Kế toán viên",
         "Audio": "/audio/ke_toan_vien.wav",
@@ -3375,7 +3366,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 376,
+        "ID": 375,
         "Word": "디자이너",
         "Meaning": "Nhà thiết kế",
         "Audio": "/audio/nha_thiet_ke.wav",
@@ -3384,7 +3375,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 377,
+        "ID": 376,
         "Word": "모델",
         "Meaning": "Người mẫu",
         "Audio": "/audio/nguoi_mau.wav",
@@ -3393,7 +3384,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 378,
+        "ID": 377,
         "Word": "배우",
         "Meaning": "Diễn viên",
         "Audio": "/audio/dien_vien.wav",
@@ -3402,7 +3393,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 379,
+        "ID": 378,
         "Word": "가수",
         "Meaning": "Ca sĩ",
         "Audio": "/audio/ca_si.wav",
@@ -3411,7 +3402,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 380,
+        "ID": 379,
         "Word": "음악가",
         "Meaning": "Nhạc sĩ",
         "Audio": "/audio/nhac_si.wav",
@@ -3420,7 +3411,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 381,
+        "ID": 380,
         "Word": "화가",
         "Meaning": "Họa sĩ",
         "Audio": "/audio/hoa_si.wav",
@@ -3429,7 +3420,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 382,
+        "ID": 381,
         "Word": "사진작가",
         "Meaning": "Nhiếp ảnh gia",
         "Audio": "/audio/nhiep_anh_gia.wav",
@@ -3438,7 +3429,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 383,
+        "ID": 382,
         "Word": "요리사",
         "Meaning": "Đầu bếp",
         "Audio": "/audio/dau_bep.wav",
@@ -3447,7 +3438,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 384,
+        "ID": 383,
         "Word": "제빵사",
         "Meaning": "Thợ làm bánh",
         "Audio": "/audio/tho_lam_banh.wav",
@@ -3456,7 +3447,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 385,
+        "ID": 384,
         "Word": "운전기사",
         "Meaning": "Tài xế",
         "Audio": "/audio/tai_xe.wav",
@@ -3465,7 +3456,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 386,
+        "ID": 385,
         "Word": "택시기사",
         "Meaning": "Tài xế taxi",
         "Audio": "/audio/tai_xe_taxi.wav",
@@ -3474,7 +3465,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 387,
+        "ID": 386,
         "Word": "버스기사",
         "Meaning": "Tài xế xe buýt",
         "Audio": "/audio/tai_xe_xe_buyt.wav",
@@ -3483,7 +3474,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 388,
+        "ID": 387,
         "Word": "비행기 조종사",
         "Meaning": "Phi công",
         "Audio": "/audio/phi_cong.wav",
@@ -3492,7 +3483,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 389,
+        "ID": 388,
         "Word": "승무원",
         "Meaning": "Tiếp viên hàng không",
         "Audio": "/audio/tiep_vien_hang_khong.wav",
@@ -3501,7 +3492,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 390,
+        "ID": 389,
         "Word": "정비사",
         "Meaning": "Kỹ sư bảo trì",
         "Audio": "/audio/ky_su_bao_tri.wav",
@@ -3510,7 +3501,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 391,
+        "ID": 390,
         "Word": "엔지니어",
         "Meaning": "Kỹ sư",
         "Audio": "/audio/ky_su.wav",
@@ -3519,7 +3510,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 392,
+        "ID": 391,
         "Word": "프로그래머",
         "Meaning": "Lập trình viên",
         "Audio": "/audio/lap_trinh_vien.wav",
@@ -3528,7 +3519,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 393,
+        "ID": 392,
         "Word": "IT 전문가",
         "Meaning": "Chuyên gia IT",
         "Audio": "/audio/chuyen_gia_IT.wav",
@@ -3537,7 +3528,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 394,
+        "ID": 393,
         "Word": "연구원",
         "Meaning": "Nhà nghiên cứu",
         "Audio": "/audio/nha_nghien_cuu.wav",
@@ -3546,7 +3537,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 395,
+        "ID": 394,
         "Word": "과학자",
         "Meaning": "Nhà khoa học",
         "Audio": "/audio/nha_khoa_hoc.wav",
@@ -3555,7 +3546,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 396,
+        "ID": 395,
         "Word": "건축가",
         "Meaning": "Kiến trúc sư",
         "Audio": "/audio/kien_truc_su.wav",
@@ -3564,7 +3555,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 397,
+        "ID": 396,
         "Word": "군인",
         "Meaning": "Quân nhân",
         "Audio": "/audio/quan_nhan.wav",
@@ -3573,7 +3564,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 398,
+        "ID": 397,
         "Word": "어부",
         "Meaning": "Ngư dân",
         "Audio": "/audio/ngu_dan.wav",
@@ -3582,7 +3573,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 399,
+        "ID": 398,
         "Word": "농부",
         "Meaning": "Nông dân",
         "Audio": "/audio/nong_dan.wav",
@@ -3591,7 +3582,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 400,
+        "ID": 399,
         "Word": "정원사",
         "Meaning": "Thợ làm vườn",
         "Audio": "/audio/tho_lam_vuon.wav",
@@ -3600,7 +3591,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 401,
+        "ID": 400,
         "Word": "미용사",
         "Meaning": "Thợ làm tóc",
         "Audio": "/audio/tho_lam_toc.wav",
@@ -3609,7 +3600,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 402,
+        "ID": 401,
         "Word": "운동선수",
         "Meaning": "Vận động viên",
         "Audio": "/audio/van_dong_vien.wav",
@@ -3618,7 +3609,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 403,
+        "ID": 402,
         "Word": "트레이너",
         "Meaning": "Huấn luyện viên",
         "Audio": "/audio/huan_luyen_vien.wav",
@@ -3627,7 +3618,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 404,
+        "ID": 403,
         "Word": "안내원",
         "Meaning": "Hướng dẫn viên",
         "Audio": "/audio/huong_dan_vien.wav",
@@ -3636,7 +3627,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 405,
+        "ID": 404,
         "Word": "배우자",
         "Meaning": "Người bạn đời",
         "Audio": "/audio/nguoi_ban_doi.wav",
@@ -3645,7 +3636,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 406,
+        "ID": 405,
         "Word": "파티쉐",
         "Meaning": "Thợ làm bánh ngọt",
         "Audio": "/audio/tho_lam_banh_ngot.wav",
@@ -3654,7 +3645,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 407,
+        "ID": 406,
         "Word": "경비원",
         "Meaning": "Bảo vệ",
         "Audio": "/audio/bao_ve.wav",
@@ -3663,7 +3654,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 408,
+        "ID": 407,
         "Word": "도서관 사서",
         "Meaning": "Thủ thư",
         "Audio": "/audio/thu_thu.wav",
@@ -3672,7 +3663,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 409,
+        "ID": 408,
         "Word": "회장",
         "Meaning": "Chủ tịch",
         "Audio": "/audio/chu_tich.wav",
@@ -3681,7 +3672,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 410,
+        "ID": 409,
         "Word": "사장",
         "Meaning": "Giám đốc",
         "Audio": "/audio/giam_doc.wav",
@@ -3690,7 +3681,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 411,
+        "ID": 410,
         "Word": "부장",
         "Meaning": "Trưởng phòng",
         "Audio": "/audio/truong_phong.wav",
@@ -3699,7 +3690,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 412,
+        "ID": 411,
         "Word": "팀장",
         "Meaning": "Trưởng nhóm",
         "Audio": "/audio/truong_nhom.wav",
@@ -3708,7 +3699,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 413,
+        "ID": 412,
         "Word": "직원",
         "Meaning": "Nhân viên",
         "Audio": "/audio/nhan_vien.wav",
@@ -3717,7 +3708,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 414,
+        "ID": 413,
         "Word": "판매원",
         "Meaning": "Nhân viên bán hàng",
         "Audio": "/audio/nhan_vien_ban_hang.wav",
@@ -3726,7 +3717,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 415,
+        "ID": 414,
         "Word": "서비스업 종사자",
         "Meaning": "Nhân viên ngành dịch vụ",
         "Audio": "/audio/nhan_vien_nganh_dich_vu.wav",
@@ -3735,7 +3726,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 416,
+        "ID": 415,
         "Word": "은행장",
         "Meaning": "Giám đốc ngân hàng",
         "Audio": "/audio/giam_doc_ngan_hang.wav",
@@ -3744,7 +3735,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 417,
+        "ID": 416,
         "Word": "보험설계사",
         "Meaning": "Nhân viên tư vấn bảo hiểm",
         "Audio": "/audio/nhan_vien_tu_van_bao_hiem.wav",
@@ -3753,7 +3744,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 418,
+        "ID": 417,
         "Word": "부동산 중개인",
         "Meaning": "Môi giới bất động sản",
         "Audio": "/audio/moi_gioi_bat_dong_san.wav",
@@ -3762,7 +3753,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 419,
+        "ID": 418,
         "Word": "컨설턴트",
         "Meaning": "Tư vấn viên",
         "Audio": "/audio/tu_van_vien.wav",
@@ -3771,16 +3762,16 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 420,
+        "ID": 419,
         "Word": "연구개발자",
-        "Meaning": "Nhà phát triển R&D",
-        "Audio": "/audio/nha_phat_trien_R&D.wav",
+        "Meaning": "Nhà phát triển RD",
+        "Audio": "/audio/nha_phat_trien_RD.wav",
         "Example(Korean)": "연구개발자가 신기술을 연구해요.",
         "Example(Vietnamese)": "Nhà phát triển R&D nghiên cứu công nghệ mới.",
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 421,
+        "ID": 420,
         "Word": "애널리스트",
         "Meaning": "Nhà phân tích",
         "Audio": "/audio/nha_phan_tich.wav",
@@ -3789,7 +3780,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 422,
+        "ID": 421,
         "Word": "프로듀서",
         "Meaning": "Nhà sản xuất (Producer)",
         "Audio": "/audio/nha_san_xuat.wav",
@@ -3798,7 +3789,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 423,
+        "ID": 422,
         "Word": "방송인",
         "Meaning": "Phát thanh viên",
         "Audio": "/audio/phat_thanh_vien.wav",
@@ -3807,7 +3798,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 424,
+        "ID": 423,
         "Word": "광고 기획자",
         "Meaning": "Nhà lập kế hoạch quảng cáo",
         "Audio": "/audio/nha_lap_ke_hoach_quang_cao.wav",
@@ -3816,7 +3807,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 425,
+        "ID": 424,
         "Word": "마케터",
         "Meaning": "Nhân viên marketing",
         "Audio": "/audio/nhan_vien_marketing.wav",
@@ -3825,7 +3816,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 426,
+        "ID": 425,
         "Word": "콘텐츠 크리에이터",
         "Meaning": "Nhà sáng tạo nội dung",
         "Audio": "/audio/nha_sang_tao_noi_dung.wav",
@@ -3834,7 +3825,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 427,
+        "ID": 426,
         "Word": "유튜버",
         "Meaning": "YouTuber",
         "Audio": "/audio/youtuber.wav",
@@ -3843,7 +3834,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 428,
+        "ID": 427,
         "Word": "사회자",
         "Meaning": "MC, người dẫn chương trình",
         "Audio": "/audio/MC_nguoi_dan_chuong_trinh.wav",
@@ -3852,7 +3843,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 429,
+        "ID": 428,
         "Word": "작곡가",
         "Meaning": "Nhà soạn nhạc",
         "Audio": "/audio/nha_soan_nhac.wav",
@@ -3861,7 +3852,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 430,
+        "ID": 429,
         "Word": "성우",
         "Meaning": "Diễn viên lồng tiếng",
         "Audio": "/audio/dien_vien_long_tieng.wav",
@@ -3870,7 +3861,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 431,
+        "ID": 430,
         "Word": "영화감독",
         "Meaning": "Đạo diễn phim",
         "Audio": "/audio/dao_dien_phim.wav",
@@ -3879,7 +3870,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 432,
+        "ID": 431,
         "Word": "무용수",
         "Meaning": "Vũ công",
         "Audio": "/audio/vu_cong.wav",
@@ -3888,7 +3879,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 433,
+        "ID": 432,
         "Word": "스타일리스트",
         "Meaning": "Stylist",
         "Audio": "/audio/stylist.wav",
@@ -3897,7 +3888,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 434,
+        "ID": 433,
         "Word": "메이크업 아티스트",
         "Meaning": "Chuyên gia trang điểm",
         "Audio": "/audio/chuyen_gia_trang_diem.wav",
@@ -3906,7 +3897,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 435,
+        "ID": 434,
         "Word": "바텐더",
         "Meaning": "Nhân viên pha chế",
         "Audio": "/audio/nhan_vien_pha_che.wav",
@@ -3915,7 +3906,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 436,
+        "ID": 435,
         "Word": "요가 강사",
         "Meaning": "Giáo viên yoga",
         "Audio": "/audio/giao_vien_yoga.wav",
@@ -3924,7 +3915,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 437,
+        "ID": 436,
         "Word": "체육 교사",
         "Meaning": "Giáo viên thể dục",
         "Audio": "/audio/giao_vien_the_duc.wav",
@@ -3933,7 +3924,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 438,
+        "ID": 437,
         "Word": "피트니스 트레이너",
         "Meaning": "Huấn luyện viên thể hình",
         "Audio": "/audio/huan_luyen_vien_the_hinh.wav",
@@ -3942,7 +3933,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 439,
+        "ID": 438,
         "Word": "프로게이머",
         "Meaning": "Game thủ chuyên nghiệp",
         "Audio": "/audio/game_thu_chuyen_nghiep.wav",
@@ -3951,7 +3942,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 440,
+        "ID": 439,
         "Word": "바리스타",
         "Meaning": "Nhân viên pha cà phê",
         "Audio": "/audio/nhan_vien_pha_ca_phe.wav",
@@ -3960,7 +3951,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 441,
+        "ID": 440,
         "Word": "목수",
         "Meaning": "Thợ mộc",
         "Audio": "/audio/tho_moc.wav",
@@ -3969,7 +3960,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 442,
+        "ID": 441,
         "Word": "전기기사",
         "Meaning": "Kỹ sư điện",
         "Audio": "/audio/ky_su_dien.wav",
@@ -3978,7 +3969,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 443,
+        "ID": 442,
         "Word": "용접공",
         "Meaning": "Thợ hàn",
         "Audio": "/audio/tho_han.wav",
@@ -3987,7 +3978,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 444,
+        "ID": 443,
         "Word": "환경미화원",
         "Meaning": "Nhân viên vệ sinh",
         "Audio": "/audio/nhan_vien_ve_sinh.wav",
@@ -3996,7 +3987,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 445,
+        "ID": 444,
         "Word": "정육점 주인",
         "Meaning": "Chủ tiệm thịt",
         "Audio": "/audio/chu_tiem_thit.wav",
@@ -4005,7 +3996,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 446,
+        "ID": 445,
         "Word": "꽃집 주인",
         "Meaning": "Chủ tiệm hoa",
         "Audio": "/audio/chu_tiem_hoa.wav",
@@ -4014,7 +4005,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 447,
+        "ID": 446,
         "Word": "요양보호사",
         "Meaning": "Điều dưỡng viên",
         "Audio": "/audio/dieu_duong_vien.wav",
@@ -4023,7 +4014,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 448,
+        "ID": 447,
         "Word": "사회복지사",
         "Meaning": "Nhân viên công tác xã hội",
         "Audio": "/audio/nhan_vien_cong_tac_xa_hoi.wav",
@@ -4032,7 +4023,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 449,
+        "ID": 448,
         "Word": "프로그래머",
         "Meaning": "Lập trình viên",
         "Audio": "/audio/lap_trinh_vien.wav",
@@ -4041,7 +4032,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 450,
+        "ID": 449,
         "Word": "데이터 분석가",
         "Meaning": "Nhà phân tích dữ liệu",
         "Audio": "/audio/nha_phan_tich_du_lieu.wav",
@@ -4050,7 +4041,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 451,
+        "ID": 450,
         "Word": "항공기 조종사",
         "Meaning": "Phi công",
         "Audio": "/audio/phi_cong.wav",
@@ -4059,7 +4050,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 452,
+        "ID": 451,
         "Word": "승무원",
         "Meaning": "Tiếp viên hàng không",
         "Audio": "/audio/tiep_vien_hang_khong.wav",
@@ -4068,7 +4059,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 453,
+        "ID": 452,
         "Word": "약사",
         "Meaning": "Dược sĩ",
         "Audio": "/audio/duoc_si.wav",
@@ -4077,7 +4068,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 454,
+        "ID": 453,
         "Word": "수의사",
         "Meaning": "Bác sĩ thú y",
         "Audio": "/audio/bac_si_thu_y.wav",
@@ -4086,7 +4077,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 455,
+        "ID": 454,
         "Word": "통역사",
         "Meaning": "Phiên dịch viên",
         "Audio": "/audio/phien_dich_vien.wav",
@@ -4095,7 +4086,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 456,
+        "ID": 455,
         "Word": "번역가",
         "Meaning": "Biên dịch viên",
         "Audio": "/audio/bien_dich_vien.wav",
@@ -4104,7 +4095,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 457,
+        "ID": 456,
         "Word": "공무원",
         "Meaning": "Công chức",
         "Audio": "/audio/cong_chuc.wav",
@@ -4113,7 +4104,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 458,
+        "ID": 457,
         "Word": "법률가",
         "Meaning": "Luật gia",
         "Audio": "/audio/luat_gia.wav",
@@ -4122,7 +4113,7 @@
         "Topic": "Nghề Nghiệp"
     },
     {
-        "ID": 459,
+        "ID": 458,
         "Word": "축구",
         "Meaning": "Bóng đá",
         "Audio": "/audio/bong_da.wav",
@@ -4131,7 +4122,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 460,
+        "ID": 459,
         "Word": "농구",
         "Meaning": "Bóng rổ",
         "Audio": "/audio/bong_ro.wav",
@@ -4140,7 +4131,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 461,
+        "ID": 460,
         "Word": "배구",
         "Meaning": "Bóng chuyền",
         "Audio": "/audio/bong_chuyen.wav",
@@ -4149,7 +4140,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 462,
+        "ID": 461,
         "Word": "테니스",
         "Meaning": "Quần vợt",
         "Audio": "/audio/quan_vot.wav",
@@ -4158,7 +4149,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 463,
+        "ID": 462,
         "Word": "탁구",
         "Meaning": "Bóng bàn",
         "Audio": "/audio/bong_ban.wav",
@@ -4167,7 +4158,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 464,
+        "ID": 463,
         "Word": "골프",
         "Meaning": "Golf",
         "Audio": "/audio/golf.wav",
@@ -4176,7 +4167,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 465,
+        "ID": 464,
         "Word": "배드민턴",
         "Meaning": "Cầu lông",
         "Audio": "/audio/cau_long.wav",
@@ -4185,7 +4176,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 466,
+        "ID": 465,
         "Word": "럭비",
         "Meaning": "Bóng bầu dục",
         "Audio": "/audio/bong_bau_duc.wav",
@@ -4194,7 +4185,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 467,
+        "ID": 466,
         "Word": "하키",
         "Meaning": "Khúc côn cầu",
         "Audio": "/audio/khuc_con_cau.wav",
@@ -4203,7 +4194,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 468,
+        "ID": 467,
         "Word": "핸드볼",
         "Meaning": "Bóng ném",
         "Audio": "/audio/bong_nem.wav",
@@ -4212,7 +4203,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 469,
+        "ID": 468,
         "Word": "체조",
         "Meaning": "Thể dục dụng cụ",
         "Audio": "/audio/the_duc_dung_cu.wav",
@@ -4221,7 +4212,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 470,
+        "ID": 469,
         "Word": "씨름",
         "Meaning": "Đấu vật Hàn Quốc",
         "Audio": "/audio/dau_vat_han_quoc.wav",
@@ -4230,7 +4221,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 471,
+        "ID": 470,
         "Word": "레슬링",
         "Meaning": "Đấu vật",
         "Audio": "/audio/dau_vat.wav",
@@ -4239,7 +4230,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 472,
+        "ID": 471,
         "Word": "유도",
         "Meaning": "Judo",
         "Audio": "/audio/judo.wav",
@@ -4248,7 +4239,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 473,
+        "ID": 472,
         "Word": "태권도",
         "Meaning": "Taekwondo",
         "Audio": "/audio/taekwondo.wav",
@@ -4257,7 +4248,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 474,
+        "ID": 473,
         "Word": "복싱",
         "Meaning": "Quyền Anh",
         "Audio": "/audio/quyen_anh.wav",
@@ -4266,7 +4257,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 475,
+        "ID": 474,
         "Word": "승마",
         "Meaning": "Cưỡi ngựa",
         "Audio": "/audio/cuoi_ngua.wav",
@@ -4275,7 +4266,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 476,
+        "ID": 475,
         "Word": "펜싱",
         "Meaning": "Đấu kiếm",
         "Audio": "/audio/dau_kiem.wav",
@@ -4284,7 +4275,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 477,
+        "ID": 476,
         "Word": "수영",
         "Meaning": "Bơi lội",
         "Audio": "/audio/boi_loi.wav",
@@ -4293,7 +4284,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 478,
+        "ID": 477,
         "Word": "다이빙",
         "Meaning": "Lặn",
         "Audio": "/audio/lan.wav",
@@ -4302,7 +4293,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 479,
+        "ID": 478,
         "Word": "조정",
         "Meaning": "Đua thuyền",
         "Audio": "/audio/dua_thuyen.wav",
@@ -4311,7 +4302,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 480,
+        "ID": 479,
         "Word": "요가",
         "Meaning": "Yoga",
         "Audio": "/audio/yoga.wav",
@@ -4320,7 +4311,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 481,
+        "ID": 480,
         "Word": "필라테스",
         "Meaning": "Pilates",
         "Audio": "/audio/pilates.wav",
@@ -4329,7 +4320,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 482,
+        "ID": 481,
         "Word": "스키",
         "Meaning": "Trượt tuyết",
         "Audio": "/audio/truot_tuyet.wav",
@@ -4338,7 +4329,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 483,
+        "ID": 482,
         "Word": "스노보드",
         "Meaning": "Trượt ván tuyết",
         "Audio": "/audio/truot_van_tuyet.wav",
@@ -4347,7 +4338,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 484,
+        "ID": 483,
         "Word": "스케이트",
         "Meaning": "Trượt băng",
         "Audio": "/audio/truot_bang.wav",
@@ -4356,7 +4347,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 485,
+        "ID": 484,
         "Word": "사이클링",
         "Meaning": "Đua xe đạp",
         "Audio": "/audio/dua_xe_dap.wav",
@@ -4365,7 +4356,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 486,
+        "ID": 485,
         "Word": "마라톤",
         "Meaning": "Chạy marathon",
         "Audio": "/audio/chay_marathon.wav",
@@ -4374,7 +4365,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 487,
+        "ID": 486,
         "Word": "역도",
         "Meaning": "Cử tạ",
         "Audio": "/audio/cu_ta.wav",
@@ -4383,7 +4374,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 488,
+        "ID": 487,
         "Word": "줄넘기",
         "Meaning": "Nhảy dây",
         "Audio": "/audio/nhay_day.wav",
@@ -4392,7 +4383,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 489,
+        "ID": 488,
         "Word": "크로스핏",
         "Meaning": "CrossFit",
         "Audio": "/audio/crossfit.wav",
@@ -4401,7 +4392,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 490,
+        "ID": 489,
         "Word": "패러글라이딩",
         "Meaning": "Dù lượn",
         "Audio": "/audio/du_luong.wav",
@@ -4410,7 +4401,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 491,
+        "ID": 490,
         "Word": "서핑",
         "Meaning": "Lướt sóng",
         "Audio": "/audio/luot_song.wav",
@@ -4419,7 +4410,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 492,
+        "ID": 491,
         "Word": "카약",
         "Meaning": "Chèo thuyền kayak",
         "Audio": "/audio/cheo_thuyen_kayak.wav",
@@ -4428,7 +4419,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 493,
+        "ID": 492,
         "Word": "암벽 등반",
         "Meaning": "Leo núi nhân tạo",
         "Audio": "/audio/leo_nui_nhan_tao.wav",
@@ -4437,7 +4428,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 494,
+        "ID": 493,
         "Word": "볼링",
         "Meaning": "Bowling",
         "Audio": "/audio/bowling.wav",
@@ -4446,7 +4437,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 495,
+        "ID": 494,
         "Word": "줄다리기",
         "Meaning": "Kéo co",
         "Audio": "/audio/keo_co.wav",
@@ -4455,7 +4446,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 496,
+        "ID": 495,
         "Word": "모터스포츠",
         "Meaning": "Đua xe mô tô",
         "Audio": "/audio/dua_xe_mo_tô.wav",
@@ -4464,7 +4455,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 497,
+        "ID": 496,
         "Word": "체력 단련",
         "Meaning": "Rèn luyện thể lực",
         "Audio": "/audio/ren_luyen_the_luc.wav",
@@ -4473,7 +4464,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 498,
+        "ID": 497,
         "Word": "아이스하키",
         "Meaning": "Khúc côn cầu trên băng",
         "Audio": "/audio/khuc_con_cau_tren_bang.wav",
@@ -4482,7 +4473,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 499,
+        "ID": 498,
         "Word": "조깅",
         "Meaning": "Chạy bộ",
         "Audio": "/audio/chay_bo.wav",
@@ -4491,7 +4482,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 500,
+        "ID": 499,
         "Word": "권투",
         "Meaning": "Đấm bốc (quyền Anh)",
         "Audio": "/audio/dam_boc_quyen_anh.wav",
@@ -4500,7 +4491,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 501,
+        "ID": 500,
         "Word": "런닝",
         "Meaning": "Chạy",
         "Audio": "/audio/chay.wav",
@@ -4509,7 +4500,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 502,
+        "ID": 501,
         "Word": "씨클로 크로스",
         "Meaning": "Đua xe đạp địa hình",
         "Audio": "/audio/dua_xe_dap_dia_hinh.wav",
@@ -4518,7 +4509,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 503,
+        "ID": 502,
         "Word": "수구",
         "Meaning": "Bóng nước",
         "Audio": "/audio/bong_nuoc.wav",
@@ -4527,7 +4518,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 504,
+        "ID": 503,
         "Word": "삼보",
         "Meaning": "Sambo (võ thuật Nga)",
         "Audio": "/audio/sambo_vo_thuat_nga.wav",
@@ -4536,7 +4527,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 505,
+        "ID": 504,
         "Word": "크리켓",
         "Meaning": "Cricket",
         "Audio": "/audio/cricket.wav",
@@ -4545,7 +4536,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 506,
+        "ID": 505,
         "Word": "프리스타일 스키",
         "Meaning": "Trượt tuyết nghệ thuật",
         "Audio": "/audio/truot_tuyet_nghe_thuat.wav",
@@ -4554,7 +4545,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 507,
+        "ID": 506,
         "Word": "체력 훈련",
         "Meaning": "Luyện tập thể lực",
         "Audio": "/audio/luyen_tap_the_luc.wav",
@@ -4563,7 +4554,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 508,
+        "ID": 507,
         "Word": "장애물 경기",
         "Meaning": "Chạy vượt chướng ngại vật",
         "Audio": "/audio/chay_vuot_chuong_ngai_vat.wav",
@@ -4572,7 +4563,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 509,
+        "ID": 508,
         "Word": "체스",
         "Meaning": "Cờ vua",
         "Audio": "/audio/co_vua.wav",
@@ -4581,7 +4572,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 510,
+        "ID": 509,
         "Word": "바둑",
         "Meaning": "Cờ vây",
         "Audio": "/audio/co_vay.wav",
@@ -4590,7 +4581,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 511,
+        "ID": 510,
         "Word": "요트 경기",
         "Meaning": "Đua thuyền buồm",
         "Audio": "/audio/dua_thuyen_buom.wav",
@@ -4599,7 +4590,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 512,
+        "ID": 511,
         "Word": "에어로빅",
         "Meaning": "Thể dục nhịp điệu",
         "Audio": "/audio/the_duc_nhip_di.wav",
@@ -4608,7 +4599,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 513,
+        "ID": 512,
         "Word": "킥복싱",
         "Meaning": "Kickboxing",
         "Audio": "/audio/kickboxing.wav",
@@ -4617,7 +4608,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 514,
+        "ID": 513,
         "Word": "삼보",
         "Meaning": "Sambo (võ thuật Nga)",
         "Audio": "/audio/sambo_vo_thuat_nga.wav",
@@ -4626,7 +4617,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 515,
+        "ID": 514,
         "Word": "트라이애슬론",
         "Meaning": "Ba môn phối hợp",
         "Audio": "/audio/ba_mon_phoi_hop.wav",
@@ -4635,7 +4626,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 516,
+        "ID": 515,
         "Word": "조깅",
         "Meaning": "Chạy bộ",
         "Audio": "/audio/chay_bo.wav",
@@ -4644,7 +4635,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 517,
+        "ID": 516,
         "Word": "웨이트 트레이닝",
         "Meaning": "Tập tạ",
         "Audio": "/audio/tap_ta.wav",
@@ -4653,7 +4644,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 518,
+        "ID": 517,
         "Word": "스쿼시",
         "Meaning": "Squash",
         "Audio": "/audio/squash.wav",
@@ -4662,7 +4653,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 519,
+        "ID": 518,
         "Word": "라크로스",
         "Meaning": "Lacrosse",
         "Audio": "/audio/lacrosse.wav",
@@ -4671,7 +4662,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 520,
+        "ID": 519,
         "Word": "패러세일링",
         "Meaning": "Dù lượn trên biển",
         "Audio": "/audio/du_luong_tren_bien.wav",
@@ -4680,7 +4671,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 521,
+        "ID": 520,
         "Word": "크로스컨트리",
         "Meaning": "Chạy việt dã",
         "Audio": "/audio/chay_viet_da.wav",
@@ -4689,7 +4680,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 522,
+        "ID": 521,
         "Word": "모터크로스",
         "Meaning": "Đua xe địa hình",
         "Audio": "/audio/dua_xe_dia_hinh.wav",
@@ -4698,7 +4689,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 523,
+        "ID": 522,
         "Word": "피구",
         "Meaning": "Bóng né",
         "Audio": "/audio/bong_ne.wav",
@@ -4707,7 +4698,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 524,
+        "ID": 523,
         "Word": "세일링",
         "Meaning": "Thuyền buồm",
         "Audio": "/audio/thuyen_buom.wav",
@@ -4716,7 +4707,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 525,
+        "ID": 524,
         "Word": "경마",
         "Meaning": "Đua ngựa",
         "Audio": "/audio/dua_ngua.wav",
@@ -4725,7 +4716,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 526,
+        "ID": 525,
         "Word": "줄다리기",
         "Meaning": "Kéo co",
         "Audio": "/audio/keo_co.wav",
@@ -4734,7 +4725,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 527,
+        "ID": 526,
         "Word": "장애물 달리기",
         "Meaning": "Chạy vượt rào",
         "Audio": "/audio/chay_vuot_ran.wav",
@@ -4743,7 +4734,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 528,
+        "ID": 527,
         "Word": "트램펄린",
         "Meaning": "Nhảy bạt nhún",
         "Audio": "/audio/nhay_bat_nhun.wav",
@@ -4752,7 +4743,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 529,
+        "ID": 528,
         "Word": "줄넘기",
         "Meaning": "Nhảy dây",
         "Audio": "/audio/nhay_day.wav",
@@ -4761,7 +4752,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 530,
+        "ID": 529,
         "Word": "던지기",
         "Meaning": "Ném đĩa/Ném lao",
         "Audio": "/audio/nem_di_nem_lao.wav",
@@ -4770,7 +4761,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 531,
+        "ID": 530,
         "Word": "도약",
         "Meaning": "Nhảy xa/Nhảy cao",
         "Audio": "/audio/nhay_xa.wav",
@@ -4779,7 +4770,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 532,
+        "ID": 531,
         "Word": "무술",
         "Meaning": "Võ thuật",
         "Audio": "/audio/vo_thuat.wav",
@@ -4788,7 +4779,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 533,
+        "ID": 532,
         "Word": "프리스타일 축구",
         "Meaning": "Bóng đá nghệ thuật",
         "Audio": "/audio/bong_da_nghe_thuat.wav",
@@ -4797,7 +4788,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 534,
+        "ID": 533,
         "Word": "자전거 경주",
         "Meaning": "Đua xe đạp",
         "Audio": "/audio/dua_xe_dap.wav",
@@ -4806,7 +4797,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 535,
+        "ID": 534,
         "Word": "빙벽 등반",
         "Meaning": "Leo núi băng",
         "Audio": "/audio/leo_nui_bang.wav",
@@ -4815,7 +4806,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 536,
+        "ID": 535,
         "Word": "아이스댄싱",
         "Meaning": "Khiêu vũ trên băng",
         "Audio": "/audio/khieu_vu_tren_bang.wav",
@@ -4824,7 +4815,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 537,
+        "ID": 536,
         "Word": "하프 마라톤",
         "Meaning": "Chạy bán marathon",
         "Audio": "/audio/chay_ban_marathon.wav",
@@ -4833,7 +4824,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 538,
+        "ID": 537,
         "Word": "스노클링",
         "Meaning": "Lặn biển bằng ống thở",
         "Audio": "/audio/lan_bien_bang_ong_tho.wav",
@@ -4842,7 +4833,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 539,
+        "ID": 538,
         "Word": "인공 암벽 등반",
         "Meaning": "Leo núi nhân tạo",
         "Audio": "/audio/leo_nui_nhan_tao.wav",
@@ -4851,7 +4842,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 540,
+        "ID": 539,
         "Word": "드래곤보트",
         "Meaning": "Đua thuyền rồng",
         "Audio": "/audio/dua_thuyen_rong.wav",
@@ -4860,7 +4851,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 541,
+        "ID": 540,
         "Word": "탁구",
         "Meaning": "Bóng bàn",
         "Audio": "/audio/bong_ban.wav",
@@ -4869,7 +4860,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 542,
+        "ID": 541,
         "Word": "클라이밍",
         "Meaning": "Leo núi",
         "Audio": "/audio/leo_nui.wav",
@@ -4878,7 +4869,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 543,
+        "ID": 542,
         "Word": "파쿠르",
         "Meaning": "Parkour",
         "Audio": "/audio/parkour.wav",
@@ -4887,7 +4878,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 544,
+        "ID": 543,
         "Word": "펜싱",
         "Meaning": "Đấu kiếm",
         "Audio": "/audio/dau_kiem.wav",
@@ -4896,7 +4887,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 545,
+        "ID": 544,
         "Word": "수구",
         "Meaning": "Bóng nước",
         "Audio": "/audio/bong_nuoc.wav",
@@ -4905,7 +4896,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 546,
+        "ID": 545,
         "Word": "하이킹",
         "Meaning": "Đi bộ đường dài",
         "Audio": "/audio/di_bo_duong_dai.wav",
@@ -4914,7 +4905,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 547,
+        "ID": 546,
         "Word": "사이클",
         "Meaning": "Xe đạp",
         "Audio": "/audio/xe_dap.wav",
@@ -4923,7 +4914,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 548,
+        "ID": 547,
         "Word": "멀리뛰기",
         "Meaning": "Nhảy xa",
         "Audio": "/audio/nhay_xa.wav",
@@ -4932,7 +4923,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 549,
+        "ID": 548,
         "Word": "양궁",
         "Meaning": "Bắn cung",
         "Audio": "/audio/ban_cung.wav",
@@ -4941,7 +4932,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 550,
+        "ID": 549,
         "Word": "역도",
         "Meaning": "Cử tạ",
         "Audio": "/audio/cu_ta.wav",
@@ -4950,7 +4941,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 551,
+        "ID": 550,
         "Word": "크로스핏",
         "Meaning": "CrossFit",
         "Audio": "/audio/crossfit.wav",
@@ -4959,7 +4950,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 552,
+        "ID": 551,
         "Word": "승마",
         "Meaning": "Cưỡi ngựa",
         "Audio": "/audio/cuoi_ngua.wav",
@@ -4968,7 +4959,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 553,
+        "ID": 552,
         "Word": "줄타기",
         "Meaning": "Đi trên dây",
         "Audio": "/audio/di_tren_day.wav",
@@ -4977,7 +4968,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 554,
+        "ID": 553,
         "Word": "동계 스포츠",
         "Meaning": "Thể thao mùa đông",
         "Audio": "/audio/the_thao_mua_dong.wav",
@@ -4986,7 +4977,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 555,
+        "ID": 554,
         "Word": "서핑",
         "Meaning": "Lướt sóng",
         "Audio": "/audio/luot_song.wav",
@@ -4995,7 +4986,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 556,
+        "ID": 555,
         "Word": "아이스하키",
         "Meaning": "Khúc côn cầu trên băng",
         "Audio": "/audio/khuc_con_cau_tren_bang.wav",
@@ -5004,7 +4995,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 557,
+        "ID": 556,
         "Word": "다이빙",
         "Meaning": "Nhảy cầu",
         "Audio": "/audio/nhay_cau.wav",
@@ -5013,7 +5004,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 558,
+        "ID": 557,
         "Word": "드럼라인",
         "Meaning": "Diễu hành trống",
         "Audio": "/audio/dieuhanh_trong.wav",
@@ -5022,7 +5013,7 @@
         "Topic": "Thể Thao"
     },
     {
-        "ID": 559,
+        "ID": 558,
         "Word": "부동산",
         "Meaning": "Bất động sản",
         "Audio": "/audio/bat_dong_san.wav",
@@ -5031,7 +5022,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 560,
+        "ID": 559,
         "Word": "아파트",
         "Meaning": "Căn hộ chung cư",
         "Audio": "/audio/can_ho_chung_cu.wav",
@@ -5040,7 +5031,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 561,
+        "ID": 560,
         "Word": "빌라",
         "Meaning": "Biệt thự",
         "Audio": "/audio/biet_thu.wav",
@@ -5049,7 +5040,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 562,
+        "ID": 561,
         "Word": "주택",
         "Meaning": "Nhà ở",
         "Audio": "/audio/nha_o.wav",
@@ -5058,7 +5049,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 563,
+        "ID": 562,
         "Word": "원룸",
         "Meaning": "Căn hộ một phòng",
         "Audio": "/audio/can_ho_mot_phong.wav",
@@ -5067,7 +5058,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 564,
+        "ID": 563,
         "Word": "전세",
         "Meaning": "Thuê nhà trả trước",
         "Audio": "/audio/thue_nha_tra_truoc.wav",
@@ -5076,7 +5067,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 565,
+        "ID": 564,
         "Word": "월세",
         "Meaning": "Thuê nhà trả theo tháng",
         "Audio": "/audio/thue_nha_tra_theo_thang.wav",
@@ -5085,7 +5076,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 566,
+        "ID": 565,
         "Word": "부동산 중개업소",
         "Meaning": "Văn phòng môi giới bất động sản",
         "Audio": "/audio/van_phong_moi_gioi_bat_dong_san.wav",
@@ -5094,7 +5085,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 567,
+        "ID": 566,
         "Word": "계약서",
         "Meaning": "Hợp đồng",
         "Audio": "/audio/hop_dong.wav",
@@ -5103,7 +5094,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 568,
+        "ID": 567,
         "Word": "대출",
         "Meaning": "Khoản vay, thế chấp",
         "Audio": "/audio/khoan_vay_the_chap.wav",
@@ -5112,7 +5103,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 569,
+        "ID": 568,
         "Word": "담보",
         "Meaning": "Thế chấp",
         "Audio": "/audio/the_chap.wav",
@@ -5121,7 +5112,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 570,
+        "ID": 569,
         "Word": "보증금",
         "Meaning": "Tiền đặt cọc",
         "Audio": "/audio/tien_dat_coc.wav",
@@ -5130,7 +5121,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 571,
+        "ID": 570,
         "Word": "청약",
         "Meaning": "Đăng ký mua nhà",
         "Audio": "/audio/dang_ky_mua_nha.wav",
@@ -5139,7 +5130,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 572,
+        "ID": 571,
         "Word": "매매",
         "Meaning": "Mua bán (bất động sản)",
         "Audio": "/audio/mua_ban.wav",
@@ -5148,7 +5139,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 573,
+        "ID": 572,
         "Word": "소유권",
         "Meaning": "Quyền sở hữu",
         "Audio": "/audio/quyen_so_huu.wav",
@@ -5157,7 +5148,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 574,
+        "ID": 573,
         "Word": "재개발",
         "Meaning": "Tái phát triển",
         "Audio": "/audio/tai_phat_trien.wav",
@@ -5166,7 +5157,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 575,
+        "ID": 574,
         "Word": "도시 계획",
         "Meaning": "Quy hoạch đô thị",
         "Audio": "/audio/quy_hoach_do_thi.wav",
@@ -5175,7 +5166,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 576,
+        "ID": 575,
         "Word": "건축 허가",
         "Meaning": "Giấy phép xây dựng",
         "Audio": "/audio/giay_phep_xay_dung.wav",
@@ -5184,7 +5175,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 577,
+        "ID": 576,
         "Word": "주택담보대출",
         "Meaning": "Khoản vay thế chấp nhà",
         "Audio": "/audio/khoan_vay_the_chap_nha.wav",
@@ -5193,7 +5184,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 578,
+        "ID": 577,
         "Word": "건축자재",
         "Meaning": "Vật liệu xây dựng",
         "Audio": "/audio/vat_lieu_xay_dung.wav",
@@ -5202,7 +5193,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 579,
+        "ID": 578,
         "Word": "관리비",
         "Meaning": "Phí quản lý",
         "Audio": "/audio/phi_quan_li.wav",
@@ -5211,7 +5202,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 580,
+        "ID": 579,
         "Word": "재산세",
         "Meaning": "Thuế tài sản",
         "Audio": "/audio/thue_tai_san.wav",
@@ -5220,7 +5211,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 581,
+        "ID": 580,
         "Word": "상가",
         "Meaning": "Khu thương mại",
         "Audio": "/audio/khu_thuong_mai.wav",
@@ -5229,7 +5220,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 582,
+        "ID": 581,
         "Word": "오피스텔",
         "Meaning": "Văn phòng kết hợp căn hộ",
         "Audio": "/audio/van_phong_ket_hop_can_ho.wav",
@@ -5238,7 +5229,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 583,
+        "ID": 582,
         "Word": "층간소음",
         "Meaning": "Tiếng ồn giữa các tầng",
         "Audio": "/audio/tien_on_giua_cac_tang.wav",
@@ -5247,7 +5238,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 584,
+        "ID": 583,
         "Word": "실거래가",
         "Meaning": "Giá giao dịch thực tế",
         "Audio": "/audio/gia_giao_dich_thuc_te.wav",
@@ -5256,7 +5247,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 585,
+        "ID": 584,
         "Word": "개발지역",
         "Meaning": "Khu vực phát triển",
         "Audio": "/audio/khu_vuc_phat_trien.wav",
@@ -5265,7 +5256,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 586,
+        "ID": 585,
         "Word": "부동산 투자",
         "Meaning": "Đầu tư bất động sản",
         "Audio": "/audio/dau_tu_bat_dong_san.wav",
@@ -5274,7 +5265,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 587,
+        "ID": 586,
         "Word": "신축",
         "Meaning": "Mới xây",
         "Audio": "/audio/moi_xay.wav",
@@ -5283,7 +5274,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 588,
+        "ID": 587,
         "Word": "리모델링",
         "Meaning": "Cải tạo, tu sửa",
         "Audio": "/audio/cai_tao_tu_sua.wav",
@@ -5292,7 +5283,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 589,
+        "ID": 588,
         "Word": "임대",
         "Meaning": "Cho thuê",
         "Audio": "/audio/cho_thue.wav",
@@ -5301,7 +5292,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 590,
+        "ID": 589,
         "Word": "임차인",
         "Meaning": "Người thuê",
         "Audio": "/audio/nguoi_thue.wav",
@@ -5310,7 +5301,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 591,
+        "ID": 590,
         "Word": "임대인",
         "Meaning": "Chủ cho thuê",
         "Audio": "/audio/chu_cho_thue.wav",
@@ -5319,7 +5310,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 592,
+        "ID": 591,
         "Word": "상속세",
         "Meaning": "Thuế thừa kế",
         "Audio": "/audio/thue_thua_ke.wav",
@@ -5328,7 +5319,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 593,
+        "ID": 592,
         "Word": "시세",
         "Meaning": "Giá thị trường",
         "Audio": "/audio/gia_thi_truong.wav",
@@ -5337,7 +5328,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 594,
+        "ID": 593,
         "Word": "감정평가",
         "Meaning": "Định giá tài sản",
         "Audio": "/audio/dinh_gia_tai_san.wav",
@@ -5346,7 +5337,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 595,
+        "ID": 594,
         "Word": "건설회사",
         "Meaning": "Công ty xây dựng",
         "Audio": "/audio/cong_ty_xay_dung.wav",
@@ -5355,7 +5346,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 596,
+        "ID": 595,
         "Word": "계약금",
         "Meaning": "Tiền đặt cọc hợp đồng",
         "Audio": "/audio/tien_dat_coc_hop_dong.wav",
@@ -5364,7 +5355,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 597,
+        "ID": 596,
         "Word": "이사비용",
         "Meaning": "Chi phí chuyển nhà",
         "Audio": "/audio/chi_phi_chuyen_nha.wav",
@@ -5373,7 +5364,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 598,
+        "ID": 597,
         "Word": "하자보수",
         "Meaning": "Sửa chữa khuyết điểm",
         "Audio": "/audio/sua_chua_khuyet_diem.wav",
@@ -5382,7 +5373,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 599,
+        "ID": 598,
         "Word": "공사장",
         "Meaning": "Công trường xây dựng",
         "Audio": "/audio/cong_truong_xay_dung.wav",
@@ -5391,7 +5382,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 600,
+        "ID": 599,
         "Word": "도시재생",
         "Meaning": "Tái tạo đô thị",
         "Audio": "/audio/tai_tao_do_thi.wav",
@@ -5400,7 +5391,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 601,
+        "ID": 600,
         "Word": "개발업자",
         "Meaning": "Nhà phát triển bất động sản",
         "Audio": "/audio/nha_phat_trien_bat_dong_san.wav",
@@ -5409,7 +5400,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 602,
+        "ID": 601,
         "Word": "미분양",
         "Meaning": "Chưa bán hết",
         "Audio": "/audio/chua_ban_het.wav",
@@ -5418,7 +5409,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 603,
+        "ID": 602,
         "Word": "상업용 부동산",
         "Meaning": "Bất động sản thương mại",
         "Audio": "/audio/bat_dong_san_thuong_mai.wav",
@@ -5427,7 +5418,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 604,
+        "ID": 603,
         "Word": "공공주택",
         "Meaning": "Nhà ở công cộng",
         "Audio": "/audio/nha_o_cong_cong.wav",
@@ -5436,7 +5427,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 605,
+        "ID": 604,
         "Word": "노후 건물",
         "Meaning": "Tòa nhà cũ",
         "Audio": "/audio/toa_nha_cu.wav",
@@ -5445,7 +5436,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 606,
+        "ID": 605,
         "Word": "부동산 규제",
         "Meaning": "Quy định về bất động sản",
         "Audio": "/audio/quy_dinh_ve_bat_dong_san.wav",
@@ -5454,7 +5445,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 607,
+        "ID": 606,
         "Word": "주택 시장",
         "Meaning": "Thị trường nhà ở",
         "Audio": "/audio/thi_truong_nha_o.wav",
@@ -5463,7 +5454,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 608,
+        "ID": 607,
         "Word": "부동산 컨설팅",
         "Meaning": "Tư vấn bất động sản",
         "Audio": "/audio/tu_van_bat_dong_san.wav",
@@ -5472,7 +5463,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 609,
+        "ID": 608,
         "Word": "부동산 가격",
         "Meaning": "Giá bất động sản",
         "Audio": "/audio/gia_bat_dong_san.wav",
@@ -5481,7 +5472,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 610,
+        "ID": 609,
         "Word": "주택 대출",
         "Meaning": "Khoản vay mua nhà",
         "Audio": "/audio/khoan_vay_mua_nha.wav",
@@ -5490,7 +5481,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 611,
+        "ID": 610,
         "Word": "부동산 정책",
         "Meaning": "Chính sách bất động sản",
         "Audio": "/audio/chinh_sach_bat_dong_san.wav",
@@ -5499,7 +5490,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 612,
+        "ID": 611,
         "Word": "주택 공급",
         "Meaning": "Cung cấp nhà ở",
         "Audio": "/audio/cung_cap_nha_o.wav",
@@ -5508,7 +5499,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 613,
+        "ID": 612,
         "Word": "부동산 거래",
         "Meaning": "Giao dịch bất động sản",
         "Audio": "/audio/giao_dich_bat_dong_san.wav",
@@ -5517,7 +5508,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 614,
+        "ID": 613,
         "Word": "상업 지구",
         "Meaning": "Khu thương mại",
         "Audio": "/audio/khu_thuong_mai.wav",
@@ -5526,7 +5517,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 615,
+        "ID": 614,
         "Word": "공인중개사",
         "Meaning": "Nhân viên môi giới bất động sản",
         "Audio": "/audio/nhan_vien_moi_gioi_bat_dong_san.wav",
@@ -5535,7 +5526,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 616,
+        "ID": 615,
         "Word": "주택 임대",
         "Meaning": "Cho thuê nhà ở",
         "Audio": "/audio/cho_thue_nha_o.wav",
@@ -5544,7 +5535,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 617,
+        "ID": 616,
         "Word": "부동산 세금",
         "Meaning": "Thuế bất động sản",
         "Audio": "/audio/thue_bat_dong_san.wav",
@@ -5553,7 +5544,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 618,
+        "ID": 617,
         "Word": "투자 수익률",
         "Meaning": "Tỷ suất lợi nhuận đầu tư",
         "Audio": "/audio/ty_suat_loi_nhuan_dau_tu.wav",
@@ -5562,7 +5553,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 619,
+        "ID": 618,
         "Word": "신도시",
         "Meaning": "Thành phố mới",
         "Audio": "/audio/thanh_pho_moi.wav",
@@ -5571,7 +5562,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 620,
+        "ID": 619,
         "Word": "재건축",
         "Meaning": "Tái xây dựng",
         "Audio": "/audio/tai_xay_dung.wav",
@@ -5580,7 +5571,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 621,
+        "ID": 620,
         "Word": "부동산 붐",
         "Meaning": "Cơn sốt bất động sản",
         "Audio": "/audio/con_sot_bat_dong_san.wav",
@@ -5589,7 +5580,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 622,
+        "ID": 621,
         "Word": "개발 허가",
         "Meaning": "Giấy phép phát triển",
         "Audio": "/audio/giay_phep_phat_trien.wav",
@@ -5598,7 +5589,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 623,
+        "ID": 622,
         "Word": "인프라",
         "Meaning": "Cơ sở hạ tầng",
         "Audio": "/audio/co_so_ha_tang.wav",
@@ -5607,7 +5598,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 624,
+        "ID": 623,
         "Word": "건축 비용",
         "Meaning": "Chi phí xây dựng",
         "Audio": "/audio/chi_phi_xay_dung.wav",
@@ -5616,7 +5607,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 625,
+        "ID": 624,
         "Word": "경매",
         "Meaning": "Đấu giá",
         "Audio": "/audio/dau_gia.wav",
@@ -5625,7 +5616,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 626,
+        "ID": 625,
         "Word": "공실률",
         "Meaning": "Tỷ lệ phòng trống",
         "Audio": "/audio/ty_le_phong_trong.wav",
@@ -5634,7 +5625,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 627,
+        "ID": 626,
         "Word": "부동산 호황",
         "Meaning": "Thời kỳ bất động sản bùng nổ",
         "Audio": "/audio/thoi_ky_bat_dong_san_bung_no.wav",
@@ -5643,7 +5634,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 628,
+        "ID": 627,
         "Word": "부동산 침체",
         "Meaning": "Thị trường bất động sản suy thoái",
         "Audio": "/audio/thi_truong_bat_dong_san_suy_thoai.wav",
@@ -5652,7 +5643,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 629,
+        "ID": 628,
         "Word": "부동산 투자 신탁",
         "Meaning": "Quỹ đầu tư bất động sản (REITs)",
         "Audio": "/audio/quy_dau_tu_bat_dong_san.wav",
@@ -5661,7 +5652,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 630,
+        "ID": 629,
         "Word": "토지 이용 계획",
         "Meaning": "Kế hoạch sử dụng đất",
         "Audio": "/audio/ke_hoach_su_dung_dat.wav",
@@ -5670,7 +5661,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 631,
+        "ID": 630,
         "Word": "도시 확장",
         "Meaning": "Mở rộng đô thị",
         "Audio": "/audio/mo_rong_do_thi.wav",
@@ -5679,7 +5670,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 632,
+        "ID": 631,
         "Word": "부동산 리스크",
         "Meaning": "Rủi ro bất động sản",
         "Audio": "/audio/rui_ro_bat_dong_san.wav",
@@ -5688,7 +5679,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 633,
+        "ID": 632,
         "Word": "부동산 포트폴리오",
         "Meaning": "Danh mục đầu tư bất động sản",
         "Audio": "/audio/danh_muc_dau_tu_bat_dong_san.wav",
@@ -5697,7 +5688,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 634,
+        "ID": 633,
         "Word": "상가 임대",
         "Meaning": "Cho thuê mặt bằng",
         "Audio": "/audio/cho_thue_mat_bang.wav",
@@ -5706,7 +5697,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 635,
+        "ID": 634,
         "Word": "노후 아파트",
         "Meaning": "Căn hộ cũ",
         "Audio": "/audio/can_ho_cu.wav",
@@ -5715,7 +5706,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 636,
+        "ID": 635,
         "Word": "주택 구매자",
         "Meaning": "Người mua nhà",
         "Audio": "/audio/nguoi_mua_nha.wav",
@@ -5724,7 +5715,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 637,
+        "ID": 636,
         "Word": "주택 부족",
         "Meaning": "Thiếu hụt nhà ở",
         "Audio": "/audio/thieu_hut_nha_o.wav",
@@ -5733,7 +5724,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 638,
+        "ID": 637,
         "Word": "해외 부동산 투자",
         "Meaning": "Đầu tư bất động sản nước ngoài",
         "Audio": "/audio/dau_tu_bat_dong_san_nuoc_ngoai.wav",
@@ -5742,7 +5733,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 639,
+        "ID": 638,
         "Word": "주택 안전 검사",
         "Meaning": "Kiểm tra an toàn nhà ở",
         "Audio": "/audio/kiem_tra_an_toan_nha_o.wav",
@@ -5751,7 +5742,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 640,
+        "ID": 639,
         "Word": "신규 분양",
         "Meaning": "Bán nhà mới",
         "Audio": "/audio/ban_nha_moi.wav",
@@ -5760,7 +5751,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 641,
+        "ID": 640,
         "Word": "토지 매입",
         "Meaning": "Mua đất",
         "Audio": "/audio/mua_dat.wav",
@@ -5769,7 +5760,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 642,
+        "ID": 641,
         "Word": "전월세 신고제",
         "Meaning": "Hệ thống đăng ký hợp đồng thuê",
         "Audio": "/audio/he_thong_dang_ky_hop_dong_thue.wav",
@@ -5778,7 +5769,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 643,
+        "ID": 642,
         "Word": "주택 재개발",
         "Meaning": "Tái phát triển nhà ở",
         "Audio": "/audio/tai_phat_trien_nha_o.wav",
@@ -5787,7 +5778,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 644,
+        "ID": 643,
         "Word": "개발지역",
         "Meaning": "Khu vực phát triển",
         "Audio": "/audio/khu_vuc_phat_trien.wav",
@@ -5796,7 +5787,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 645,
+        "ID": 644,
         "Word": "부동산 경기",
         "Meaning": "Tình hình thị trường bất động sản",
         "Audio": "/audio/tinh_hinh_thi_truong_bat_dong_san.wav",
@@ -5805,7 +5796,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 646,
+        "ID": 645,
         "Word": "용적률",
         "Meaning": "Hệ số sử dụng đất",
         "Audio": "/audio/he_so_su_dung_dat.wav",
@@ -5814,7 +5805,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 647,
+        "ID": 646,
         "Word": "건폐율",
         "Meaning": "Tỷ lệ diện tích xây dựng",
         "Audio": "/audio/ty_le_dien_tich_xay_dung.wav",
@@ -5823,7 +5814,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 648,
+        "ID": 647,
         "Word": "상업 지역",
         "Meaning": "Khu thương mại",
         "Audio": "/audio/khu_thuong_mai.wav",
@@ -5832,7 +5823,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 649,
+        "ID": 648,
         "Word": "토지 개발",
         "Meaning": "Phát triển đất đai",
         "Audio": "/audio/phat_trien_dat_dai.wav",
@@ -5841,7 +5832,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 650,
+        "ID": 649,
         "Word": "주택 보증금",
         "Meaning": "Tiền đặt cọc nhà ở",
         "Audio": "/audio/tien_dat_coc_nha_o.wav",
@@ -5850,7 +5841,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 651,
+        "ID": 650,
         "Word": "전세 계약",
         "Meaning": "Hợp đồng thuê nhà dạng Jeonse",
         "Audio": "/audio/hop_dong_thue_nha_dang_jeonse.wav",
@@ -5859,7 +5850,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 652,
+        "ID": 651,
         "Word": "월세 계약",
         "Meaning": "Hợp đồng thuê nhà trả tiền hàng tháng",
         "Audio": "/audio/hop_dong_thue_nha_tra_tien_hang_thang.wav",
@@ -5868,7 +5859,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 653,
+        "ID": 652,
         "Word": "주택 개조",
         "Meaning": "Cải tạo nhà ở",
         "Audio": "/audio/cai_tao_nha_o.wav",
@@ -5877,7 +5868,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 654,
+        "ID": 653,
         "Word": "부동산 전문가",
         "Meaning": "Chuyên gia bất động sản",
         "Audio": "/audio/chuyen_gia_bat_dong_san.wav",
@@ -5886,7 +5877,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 655,
+        "ID": 654,
         "Word": "토지 가격",
         "Meaning": "Giá đất",
         "Audio": "/audio/gia_dat.wav",
@@ -5895,7 +5886,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 656,
+        "ID": 655,
         "Word": "부동산 세입자",
         "Meaning": "Người thuê bất động sản",
         "Audio": "/audio/nguoi_thue_bat_dong_san.wav",
@@ -5904,7 +5895,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 657,
+        "ID": 656,
         "Word": "재개발 구역",
         "Meaning": "Khu vực tái phát triển",
         "Audio": "/audio/khu_vuc_tai_phat_trien.wav",
@@ -5913,7 +5904,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 658,
+        "ID": 657,
         "Word": "단기 임대",
         "Meaning": "Cho thuê ngắn hạn",
         "Audio": "/audio/cho_thue_ngan_han.wav",
@@ -5922,7 +5913,7 @@
         "Topic": "Bất Động sản"
     },
     {
-        "ID": 659,
+        "ID": 658,
         "Word": "사랑",
         "Meaning": "Tình yêu",
         "Audio": "/audio/tinh_yeu.wav",
@@ -5931,7 +5922,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 660,
+        "ID": 659,
         "Word": "연애",
         "Meaning": "Hẹn hò, yêu đương",
         "Audio": "/audio/hen_ho_yeu_dong.wav",
@@ -5940,7 +5931,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 661,
+        "ID": 660,
         "Word": "첫사랑",
         "Meaning": "Mối tình đầu",
         "Audio": "/audio/moi_tinh_dau.wav",
@@ -5949,7 +5940,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 662,
+        "ID": 661,
         "Word": "짝사랑",
         "Meaning": "Yêu đơn phương",
         "Audio": "/audio/yeu_don_phuong.wav",
@@ -5958,7 +5949,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 663,
+        "ID": 662,
         "Word": "고백",
         "Meaning": "Tỏ tình",
         "Audio": "/audio/to_tinh.wav",
@@ -5967,7 +5958,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 664,
+        "ID": 663,
         "Word": "데이트",
         "Meaning": "Hẹn hò",
         "Audio": "/audio/hen_ho.wav",
@@ -5976,7 +5967,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 665,
+        "ID": 664,
         "Word": "키스",
         "Meaning": "Nụ hôn",
         "Audio": "/audio/nu_hon.wav",
@@ -5985,7 +5976,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 666,
+        "ID": 665,
         "Word": "포옹",
         "Meaning": "Ôm",
         "Audio": "/audio/om.wav",
@@ -5994,7 +5985,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 667,
+        "ID": 666,
         "Word": "설렘",
         "Meaning": "Cảm giác rung động",
         "Audio": "/audio/cam_giac_rung_dong.wav",
@@ -6003,7 +5994,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 668,
+        "ID": 667,
         "Word": "인연",
         "Meaning": "Nhân duyên",
         "Audio": "/audio/nhan_duyen.wav",
@@ -6012,7 +6003,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 669,
+        "ID": 668,
         "Word": "연인",
         "Meaning": "Người yêu",
         "Audio": "/audio/nguoi_yeu.wav",
@@ -6021,7 +6012,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 670,
+        "ID": 669,
         "Word": "배우자",
         "Meaning": "Bạn đời",
         "Audio": "/audio/ban_doi.wav",
@@ -6030,7 +6021,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 671,
+        "ID": 670,
         "Word": "프러포즈",
         "Meaning": "Cầu hôn",
         "Audio": "/audio/cau_hon.wav",
@@ -6039,7 +6030,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 672,
+        "ID": 671,
         "Word": "약혼",
         "Meaning": "Đính hôn",
         "Audio": "/audio/dinh_hon.wav",
@@ -6048,7 +6039,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 673,
+        "ID": 672,
         "Word": "결혼",
         "Meaning": "Kết hôn",
         "Audio": "/audio/ket_hon.wav",
@@ -6057,7 +6048,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 674,
+        "ID": 673,
         "Word": "신혼",
         "Meaning": "Mới cưới",
         "Audio": "/audio/moi_cuoi.wav",
@@ -6066,7 +6057,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 675,
+        "ID": 674,
         "Word": "사랑에 빠지다",
         "Meaning": "Rơi vào tình yêu",
         "Audio": "/audio/roi_vao_tinh_yeu.wav",
@@ -6075,7 +6066,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 676,
+        "ID": 675,
         "Word": "운명",
         "Meaning": "Định mệnh",
         "Audio": "/audio/dinh_menh.wav",
@@ -6084,7 +6075,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 677,
+        "ID": 676,
         "Word": "애정",
         "Meaning": "Tình cảm, sự yêu thương",
         "Audio": "/audio/tinh_cam_su_yeu_thuong.wav",
@@ -6093,7 +6084,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 678,
+        "ID": 677,
         "Word": "연애 감정",
         "Meaning": "Cảm xúc yêu đương",
         "Audio": "/audio/cam_xuc_yeu_dong.wav",
@@ -6102,7 +6093,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 679,
+        "ID": 678,
         "Word": "심쿵",
         "Meaning": "Tim đập mạnh (do rung động)",
         "Audio": "/audio/tim_dap_manh.wav",
@@ -6111,7 +6102,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 680,
+        "ID": 679,
         "Word": "애인",
         "Meaning": "Người yêu",
         "Audio": "/audio/nguoi_yeu.wav",
@@ -6120,7 +6111,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 681,
+        "ID": 680,
         "Word": "이별",
         "Meaning": "Chia tay",
         "Audio": "/audio/chia_tay.wav",
@@ -6129,7 +6120,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 682,
+        "ID": 681,
         "Word": "그리움",
         "Meaning": "Nỗi nhớ",
         "Audio": "/audio/noi_nho.wav",
@@ -6138,7 +6129,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 683,
+        "ID": 682,
         "Word": "질투",
         "Meaning": "Ghen tuông",
         "Audio": "/audio/ghen_tuong.wav",
@@ -6147,7 +6138,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 684,
+        "ID": 683,
         "Word": "신뢰",
         "Meaning": "Sự tin tưởng",
         "Audio": "/audio/su_tin_tuong.wav",
@@ -6156,7 +6147,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 685,
+        "ID": 684,
         "Word": "배려",
         "Meaning": "Sự quan tâm, chăm sóc",
         "Audio": "/audio/su_quan_tam_cham_soc.wav",
@@ -6165,7 +6156,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 686,
+        "ID": 685,
         "Word": "로맨스",
         "Meaning": "Lãng mạn",
         "Audio": "/audio/lang_man.wav",
@@ -6174,7 +6165,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 687,
+        "ID": 686,
         "Word": "장거리 연애",
         "Meaning": "Yêu xa",
         "Audio": "/audio/yeu_xa.wav",
@@ -6183,7 +6174,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 688,
+        "ID": 687,
         "Word": "썸타다",
         "Meaning": "Tình trong như đã mặt ngoài còn e",
         "Audio": "/audio/tinh_trong_nhu_da_mat_ngoai_con_e.wav",
@@ -6192,7 +6183,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 689,
+        "ID": 688,
         "Word": "운명적인 사랑",
         "Meaning": "Tình yêu định mệnh",
         "Audio": "/audio/tinh_yeu_dinh_menh.wav",
@@ -6201,7 +6192,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 690,
+        "ID": 689,
         "Word": "연애 스타일",
         "Meaning": "Phong cách yêu",
         "Audio": "/audio/phong_cach_yeu.wav",
@@ -6210,7 +6201,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 691,
+        "ID": 690,
         "Word": "데이트 비용",
         "Meaning": "Chi phí hẹn hò",
         "Audio": "/audio/chi_phi_hen_ho.wav",
@@ -6219,7 +6210,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 692,
+        "ID": 691,
         "Word": "커플",
         "Meaning": "Cặp đôi",
         "Audio": "/audio/cap_doi.wav",
@@ -6228,7 +6219,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 693,
+        "ID": 692,
         "Word": "꽃다발",
         "Meaning": "Bó hoa",
         "Audio": "/audio/bo_hoa.wav",
@@ -6237,7 +6228,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 694,
+        "ID": 693,
         "Word": "기념일",
         "Meaning": "Ngày kỷ niệm",
         "Audio": "/audio/ngay_ky_niem.wav",
@@ -6246,7 +6237,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 695,
+        "ID": 694,
         "Word": "감동",
         "Meaning": "Cảm động",
         "Audio": "/audio/cam_dong.wav",
@@ -6255,7 +6246,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 696,
+        "ID": 695,
         "Word": "행복",
         "Meaning": "Hạnh phúc",
         "Audio": "/audio/hanh_phuc.wav",
@@ -6264,7 +6255,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 697,
+        "ID": 696,
         "Word": "우정",
         "Meaning": "Tình bạn",
         "Audio": "/audio/tinh_ban.wav",
@@ -6273,7 +6264,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 698,
+        "ID": 697,
         "Word": "헤어지다",
         "Meaning": "Chia tay",
         "Audio": "/audio/chia_tay.wav",
@@ -6282,7 +6273,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 699,
+        "ID": 698,
         "Word": "반하다",
         "Meaning": "Phải lòng, mê mẩn",
         "Audio": "/audio/phai_long_me_man.wav",
@@ -6291,7 +6282,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 700,
+        "ID": 699,
         "Word": "운명의 상대",
         "Meaning": "Người định mệnh",
         "Audio": "/audio/nguoi_dinh_menh.wav",
@@ -6300,7 +6291,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 701,
+        "ID": 700,
         "Word": "스킨십",
         "Meaning": "Cử chỉ thân mật (ôm, nắm tay…)",
         "Audio": "/audio/cu_giay_than_mat.wav",
@@ -6309,7 +6300,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 702,
+        "ID": 701,
         "Word": "연애 경험",
         "Meaning": "Kinh nghiệm yêu đương",
         "Audio": "/audio/kinh_nghiem_yeu_dong.wav",
@@ -6318,7 +6309,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 703,
+        "ID": 702,
         "Word": "삼각관계",
         "Meaning": "Tình tay ba",
         "Audio": "/audio/tinh_tay_ba.wav",
@@ -6327,7 +6318,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 704,
+        "ID": 703,
         "Word": "이성 친구",
         "Meaning": "Bạn khác giới",
         "Audio": "/audio/ban_khac_gioi.wav",
@@ -6336,7 +6327,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 705,
+        "ID": 704,
         "Word": "달콤한 말",
         "Meaning": "Lời ngọt ngào",
         "Audio": "/audio/loi_ngot_ngao.wav",
@@ -6345,7 +6336,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 706,
+        "ID": 705,
         "Word": "관심",
         "Meaning": "Sự quan tâm",
         "Audio": "/audio/su_quan_tam.wav",
@@ -6354,7 +6345,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 707,
+        "ID": 706,
         "Word": "장미",
         "Meaning": "Hoa hồng",
         "Audio": "/audio/hoa_hong.wav",
@@ -6363,7 +6354,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 708,
+        "ID": 707,
         "Word": "사랑스러운",
         "Meaning": "Đáng yêu, dễ thương",
         "Audio": "/audio/dang_yeu_de_thuong.wav",
@@ -6372,7 +6363,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 709,
+        "ID": 708,
         "Word": "감정",
         "Meaning": "Cảm xúc",
         "Audio": "/audio/cam_xuc.wav",
@@ -6381,7 +6372,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 710,
+        "ID": 709,
         "Word": "애정 표현",
         "Meaning": "Thể hiện tình cảm",
         "Audio": "/audio/the_hien_tinh_cam.wav",
@@ -6390,7 +6381,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 711,
+        "ID": 710,
         "Word": "이별 후유증",
         "Meaning": "Hậu chấn sau chia tay",
         "Audio": "/audio/hau_chan_sau_chia_tay.wav",
@@ -6399,7 +6390,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 712,
+        "ID": 711,
         "Word": "신혼 부부",
         "Meaning": "Cặp đôi mới cưới",
         "Audio": "/audio/cap_doi_moi_cuoi.wav",
@@ -6408,7 +6399,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 713,
+        "ID": 712,
         "Word": "부부싸움",
         "Meaning": "Cãi nhau giữa vợ chồng",
         "Audio": "/audio/cai_nhau_giua_vo_chong.wav",
@@ -6417,7 +6408,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 714,
+        "ID": 713,
         "Word": "연애 기간",
         "Meaning": "Thời gian yêu nhau",
         "Audio": "/audio/thoi_gian_yeu_nhau.wav",
@@ -6426,7 +6417,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 715,
+        "ID": 714,
         "Word": "사랑고백",
         "Meaning": "Lời tỏ tình",
         "Audio": "/audio/loi_to_tinh.wav",
@@ -6435,7 +6426,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 716,
+        "ID": 715,
         "Word": "장미꽃",
         "Meaning": "Hoa hồng",
         "Audio": "/audio/hoa_hong.wav",
@@ -6444,7 +6435,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 717,
+        "ID": 716,
         "Word": "부케",
         "Meaning": "Bó hoa cưới",
         "Audio": "/audio/bo_hoa_cuoi.wav",
@@ -6453,7 +6444,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 718,
+        "ID": 717,
         "Word": "로맨틱한",
         "Meaning": "Lãng mạn",
         "Audio": "/audio/lang_man.wav",
@@ -6462,7 +6453,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 719,
+        "ID": 718,
         "Word": "커플링",
         "Meaning": "Nhẫn đôi",
         "Audio": "/audio/nhan_doi.wav",
@@ -6471,7 +6462,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 720,
+        "ID": 719,
         "Word": "재혼",
         "Meaning": "Tái hôn",
         "Audio": "/audio/tai_hon.wav",
@@ -6480,7 +6471,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 721,
+        "ID": 720,
         "Word": "황혼이혼",
         "Meaning": "Ly hôn khi về già",
         "Audio": "/audio/ly_hon_khi_ve_gia.wav",
@@ -6489,7 +6480,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 722,
+        "ID": 721,
         "Word": "연애 편지",
         "Meaning": "Thư tình",
         "Audio": "/audio/thu_tinh.wav",
@@ -6498,7 +6489,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 723,
+        "ID": 722,
         "Word": "러브스토리",
         "Meaning": "Câu chuyện tình yêu",
         "Audio": "/audio/cau_chuyen_tinh_yeu.wav",
@@ -6507,7 +6498,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 724,
+        "ID": 723,
         "Word": "커플룩",
         "Meaning": "Đồ đôi",
         "Audio": "/audio/do_doi.wav",
@@ -6516,7 +6507,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 725,
+        "ID": 724,
         "Word": "불륜",
         "Meaning": "Ngoại tình",
         "Audio": "/audio/ngoai_tinh.wav",
@@ -6525,7 +6516,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 726,
+        "ID": 725,
         "Word": "삼혼",
         "Meaning": "Kết hôn lần ba",
         "Audio": "/audio/ket_hon_lan_ba.wav",
@@ -6534,7 +6525,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 727,
+        "ID": 726,
         "Word": "신혼 생활",
         "Meaning": "Cuộc sống vợ chồng mới cưới",
         "Audio": "/audio/cuoc_song_vo_chong_moi_cuoi.wav",
@@ -6543,7 +6534,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 728,
+        "ID": 727,
         "Word": "중매 결혼",
         "Meaning": "Hôn nhân do mai mối",
         "Audio": "/audio/hon_nhan_do_mai_moi.wav",
@@ -6552,7 +6543,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 729,
+        "ID": 728,
         "Word": "소개팅",
         "Meaning": "Buổi xem mắt",
         "Audio": "/audio/buoi_xem_mat.wav",
@@ -6561,7 +6552,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 730,
+        "ID": 729,
         "Word": "사랑 싸움",
         "Meaning": "Cãi nhau trong tình yêu",
         "Audio": "/audio/cai_nhau_trong_tinh_yeu.wav",
@@ -6570,7 +6561,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 731,
+        "ID": 730,
         "Word": "짝짓기",
         "Meaning": "Ghép đôi",
         "Audio": "/audio/ghep_doi.wav",
@@ -6579,7 +6570,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 732,
+        "ID": 731,
         "Word": "속마음",
         "Meaning": "Tâm tư, nỗi lòng",
         "Audio": "/audio/tam_tu_noi_long.wav",
@@ -6588,7 +6579,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 733,
+        "ID": 732,
         "Word": "혼전 동거",
         "Meaning": "Sống thử trước hôn nhân",
         "Audio": "/audio/song_thu_truoc_hon_nhan.wav",
@@ -6597,7 +6588,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 734,
+        "ID": 733,
         "Word": "유혹",
         "Meaning": "Sự quyến rũ, cám dỗ",
         "Audio": "/audio/su_quyen_ru_cam_do.wav",
@@ -6606,7 +6597,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 735,
+        "ID": 734,
         "Word": "애틋한 사랑",
         "Meaning": "Tình yêu da diết",
         "Audio": "/audio/tinh_yeu_da_dieut.wav",
@@ -6615,7 +6606,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 736,
+        "ID": 735,
         "Word": "일편단심",
         "Meaning": "Một lòng một dạ",
         "Audio": "/audio/mot_long_mot_da.wav",
@@ -6624,7 +6615,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 737,
+        "ID": 736,
         "Word": "가슴 아픈 사랑",
         "Meaning": "Tình yêu đau lòng",
         "Audio": "/audio/tinh_yeu_dau_long.wav",
@@ -6633,7 +6624,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 738,
+        "ID": 737,
         "Word": "장거리 관계",
         "Meaning": "Quan hệ yêu xa",
         "Audio": "/audio/quan_he_yeu_xa.wav",
@@ -6642,7 +6633,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 739,
+        "ID": 738,
         "Word": "사랑니",
         "Meaning": "Răng khôn",
         "Audio": "/audio/rang_khon.wav",
@@ -6651,7 +6642,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 740,
+        "ID": 739,
         "Word": "첫눈에 반하다",
         "Meaning": "Yêu từ cái nhìn đầu tiên",
         "Audio": "/audio/yeu_tu_cai_nhin_dau_tien.wav",
@@ -6660,7 +6651,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 741,
+        "ID": 740,
         "Word": "데이트 신청",
         "Meaning": "Mời hẹn hò",
         "Audio": "/audio/moi_hen_ho.wav",
@@ -6669,7 +6660,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 742,
+        "ID": 741,
         "Word": "밀당",
         "Meaning": "Chiến thuật \"push and pull\" trong tình yêu",
         "Audio": "/audio/chien_thuat_push_and_pull_trong_tinh_yeu.wav",
@@ -6678,7 +6669,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 743,
+        "ID": 742,
         "Word": "권태기",
         "Meaning": "Giai đoạn chán nhau",
         "Audio": "/audio/giai_doan_chan_nhau.wav",
@@ -6687,7 +6678,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 744,
+        "ID": 743,
         "Word": "이상형",
         "Meaning": "Mẫu người lý tưởng",
         "Audio": "/audio/mau_nguoi_ly_tuong.wav",
@@ -6696,7 +6687,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 745,
+        "ID": 744,
         "Word": "연애 상담",
         "Meaning": "Tư vấn tình yêu",
         "Audio": "/audio/tu_van_tinh_yeu.wav",
@@ -6705,7 +6696,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 746,
+        "ID": 745,
         "Word": "스몰 웨딩",
         "Meaning": "Đám cưới nhỏ",
         "Audio": "/audio/dam_cuoi_nho.wav",
@@ -6714,7 +6705,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 747,
+        "ID": 746,
         "Word": "내조",
         "Meaning": "Hỗ trợ, chăm sóc chồng",
         "Audio": "/audio/ho_tro_cham_soc_chong.wav",
@@ -6723,7 +6714,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 748,
+        "ID": 747,
         "Word": "외조",
         "Meaning": "Hỗ trợ, chăm sóc vợ",
         "Audio": "/audio/ho_tro_cham_soc_vo.wav",
@@ -6732,7 +6723,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 749,
+        "ID": 748,
         "Word": "사랑에 빠지다",
         "Meaning": "Rơi vào tình yêu",
         "Audio": "/audio/roi_vao_tinh_yeu.wav",
@@ -6741,7 +6732,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 750,
+        "ID": 749,
         "Word": "연애 스타일",
         "Meaning": "Phong cách yêu đương",
         "Audio": "/audio/phong_cach_yeu_dong.wav",
@@ -6750,7 +6741,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 751,
+        "ID": 750,
         "Word": "비밀 연애",
         "Meaning": "Yêu đương bí mật",
         "Audio": "/audio/yeu_dong_bi_mat.wav",
@@ -6759,7 +6750,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 752,
+        "ID": 751,
         "Word": "사랑꾼",
         "Meaning": "Người yêu cuồng nhiệt",
         "Audio": "/audio/nguoi_yeu_cuong_nhiet.wav",
@@ -6768,7 +6759,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 753,
+        "ID": 752,
         "Word": "바람둥이",
         "Meaning": "Kẻ đào hoa, lăng nhăng",
         "Audio": "/audio/ke_dao_hoa_lang_nhang.wav",
@@ -6777,7 +6768,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 754,
+        "ID": 753,
         "Word": "첫사랑",
         "Meaning": "Mối tình đầu",
         "Audio": "/audio/moi_tinh_dau.wav",
@@ -6786,7 +6777,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 755,
+        "ID": 754,
         "Word": "권태기 극복",
         "Meaning": "Vượt qua giai đoạn chán nhau",
         "Audio": "/audio/vuot_qua_giai_doan_chan_nhau.wav",
@@ -6795,7 +6786,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 756,
+        "ID": 755,
         "Word": "장난스러운 사랑",
         "Meaning": "Tình yêu tinh nghịch",
         "Audio": "/audio/tinh_yeu_tinh_nghich.wav",
@@ -6804,7 +6795,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 757,
+        "ID": 756,
         "Word": "짝사랑",
         "Meaning": "Yêu đơn phương",
         "Audio": "/audio/yeu_don_phuong.wav",
@@ -6813,7 +6804,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 758,
+        "ID": 757,
         "Word": "운명적인 만남",
         "Meaning": "Cuộc gặp định mệnh",
         "Audio": "/audio/cuoc_gap_dinh_menh.wav",
@@ -6822,7 +6813,7 @@
         "Topic": "Tình Yêu"
     },
     {
-        "ID": 759,
+        "ID": 758,
         "Word": "외모",
         "Meaning": "Ngoại hình",
         "Audio": "/audio/ngoai_hinh.wav",
@@ -6831,7 +6822,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 760,
+        "ID": 759,
         "Word": "키",
         "Meaning": "Chiều cao",
         "Audio": "/audio/chieu_cao.wav",
@@ -6840,7 +6831,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 761,
+        "ID": 760,
         "Word": "몸무게",
         "Meaning": "Cân nặng",
         "Audio": "/audio/can_nang.wav",
@@ -6849,7 +6840,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 762,
+        "ID": 761,
         "Word": "피부",
         "Meaning": "Làn da",
         "Audio": "/audio/lan_da.wav",
@@ -6858,7 +6849,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 763,
+        "ID": 762,
         "Word": "얼굴",
         "Meaning": "Khuôn mặt",
         "Audio": "/audio/khuon_mat.wav",
@@ -6867,7 +6858,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 764,
+        "ID": 763,
         "Word": "눈",
         "Meaning": "Mắt",
         "Audio": "/audio/mat.wav",
@@ -6876,7 +6867,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 765,
+        "ID": 764,
         "Word": "코",
         "Meaning": "Mũi",
         "Audio": "/audio/mui.wav",
@@ -6885,7 +6876,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 766,
+        "ID": 765,
         "Word": "입",
         "Meaning": "Miệng",
         "Audio": "/audio/mieng.wav",
@@ -6894,7 +6885,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 767,
+        "ID": 766,
         "Word": "머리카락",
         "Meaning": "Tóc",
         "Audio": "/audio/toc.wav",
@@ -6903,7 +6894,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 768,
+        "ID": 767,
         "Word": "짧은 머리",
         "Meaning": "Tóc ngắn",
         "Audio": "/audio/toc_ngan.wav",
@@ -6912,7 +6903,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 769,
+        "ID": 768,
         "Word": "긴 머리",
         "Meaning": "Tóc dài",
         "Audio": "/audio/toc_dai.wav",
@@ -6921,7 +6912,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 770,
+        "ID": 769,
         "Word": "이목구비",
         "Meaning": "Ngũ quan trên mặt",
         "Audio": "/audio/ngu_quan_tren_mat.wav",
@@ -6930,7 +6921,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 771,
+        "ID": 770,
         "Word": "피부색",
         "Meaning": "Màu da",
         "Audio": "/audio/mau_da.wav",
@@ -6939,7 +6930,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 772,
+        "ID": 771,
         "Word": "동안",
         "Meaning": "Khuôn mặt trẻ hơn tuổi",
         "Audio": "/audio/khuon_mat_tre_hon_tuoi.wav",
@@ -6948,7 +6939,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 773,
+        "ID": 772,
         "Word": "미소",
         "Meaning": "Nụ cười",
         "Audio": "/audio/nu_cuoi.wav",
@@ -6957,7 +6948,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 774,
+        "ID": 773,
         "Word": "웃음",
         "Meaning": "Nụ cười, tiếng cười",
         "Audio": "/audio/nu_cuoi_tieng_cuoi.wav",
@@ -6966,7 +6957,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 775,
+        "ID": 774,
         "Word": "체격",
         "Meaning": "Vóc dáng, thể hình",
         "Audio": "/audio/voc_dang_the_hinh.wav",
@@ -6975,7 +6966,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 776,
+        "ID": 775,
         "Word": "근육",
         "Meaning": "Cơ bắp",
         "Audio": "/audio/co_bap.wav",
@@ -6984,7 +6975,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 777,
+        "ID": 776,
         "Word": "뚱뚱하다",
         "Meaning": "Béo",
         "Audio": "/audio/beo.wav",
@@ -6993,7 +6984,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 778,
+        "ID": 777,
         "Word": "날씬하다",
         "Meaning": "Thon thả",
         "Audio": "/audio/thon_tha.wav",
@@ -7002,7 +6993,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 779,
+        "ID": 778,
         "Word": "마르다",
         "Meaning": "Gầy, ốm",
         "Audio": "/audio/gay_om.wav",
@@ -7011,7 +7002,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 780,
+        "ID": 779,
         "Word": "통통하다",
         "Meaning": "Tròn trịa, đầy đặn",
         "Audio": "/audio/tron_tria_day_dan.wav",
@@ -7020,7 +7011,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 781,
+        "ID": 780,
         "Word": "얼굴형",
         "Meaning": "Hình dạng khuôn mặt",
         "Audio": "/audio/hinh_dang_khuon_mat.wav",
@@ -7029,7 +7020,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 782,
+        "ID": 781,
         "Word": "피부 관리",
         "Meaning": "Chăm sóc da",
         "Audio": "/audio/cham_soc_da.wav",
@@ -7038,7 +7029,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 783,
+        "ID": 782,
         "Word": "매력적이다",
         "Meaning": "Cuốn hút",
         "Audio": "/audio/cuon_hut.wav",
@@ -7047,7 +7038,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 784,
+        "ID": 783,
         "Word": "귀엽다",
         "Meaning": "Dễ thương",
         "Audio": "/audio/de_thuong.wav",
@@ -7056,7 +7047,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 785,
+        "ID": 784,
         "Word": "잘생기다",
         "Meaning": "Đẹp trai",
         "Audio": "/audio/dep_trai.wav",
@@ -7065,7 +7056,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 786,
+        "ID": 785,
         "Word": "예쁘다",
         "Meaning": "Xinh đẹp",
         "Audio": "/audio/xinh_dep.wav",
@@ -7074,7 +7065,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 787,
+        "ID": 786,
         "Word": "우아하다",
         "Meaning": "Thanh lịch",
         "Audio": "/audio/thanh_lich.wav",
@@ -7083,7 +7074,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 788,
+        "ID": 787,
         "Word": "세련되다",
         "Meaning": "Sành điệu",
         "Audio": "/audio/sanh_dieu.wav",
@@ -7092,7 +7083,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 789,
+        "ID": 788,
         "Word": "다리",
         "Meaning": "Chân",
         "Audio": "/audio/chan.wav",
@@ -7101,7 +7092,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 790,
+        "ID": 789,
         "Word": "팔",
         "Meaning": "Cánh tay",
         "Audio": "/audio/canh_tay.wav",
@@ -7110,7 +7101,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 791,
+        "ID": 790,
         "Word": "손",
         "Meaning": "Bàn tay",
         "Audio": "/audio/ban_tay.wav",
@@ -7119,7 +7110,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 792,
+        "ID": 791,
         "Word": "손톱",
         "Meaning": "Móng tay",
         "Audio": "/audio/mong_tay.wav",
@@ -7128,7 +7119,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 793,
+        "ID": 792,
         "Word": "발",
         "Meaning": "Bàn chân",
         "Audio": "/audio/ban_chan.wav",
@@ -7137,7 +7128,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 794,
+        "ID": 793,
         "Word": "눈썹",
         "Meaning": "Lông mày",
         "Audio": "/audio/long_may.wav",
@@ -7146,7 +7137,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 795,
+        "ID": 794,
         "Word": "속눈썹",
         "Meaning": "Lông mi",
         "Audio": "/audio/long_mi.wav",
@@ -7155,7 +7146,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 796,
+        "ID": 795,
         "Word": "주근깨",
         "Meaning": "Tàn nhang",
         "Audio": "/audio/tan_nhang.wav",
@@ -7164,7 +7155,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 797,
+        "ID": 796,
         "Word": "턱선",
         "Meaning": "Đường viền hàm",
         "Audio": "/audio/duong_vien_ham.wav",
@@ -7173,7 +7164,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 798,
+        "ID": 797,
         "Word": "눈동자",
         "Meaning": "Tròng mắt",
         "Audio": "/audio/trong_mat.wav",
@@ -7182,7 +7173,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 799,
+        "ID": 798,
         "Word": "광대뼈",
         "Meaning": "Xương gò má",
         "Audio": "/audio/xuong_go_mac.wav",
@@ -7191,7 +7182,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 800,
+        "ID": 799,
         "Word": "입술",
         "Meaning": "Môi",
         "Audio": "/audio/moi.wav",
@@ -7200,7 +7191,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 801,
+        "ID": 800,
         "Word": "체형",
         "Meaning": "Dáng người",
         "Audio": "/audio/dang_nguoi.wav",
@@ -7209,7 +7200,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 802,
+        "ID": 801,
         "Word": "어깨",
         "Meaning": "Vai",
         "Audio": "/audio/vai.wav",
@@ -7218,7 +7209,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 803,
+        "ID": 802,
         "Word": "허리",
         "Meaning": "Eo",
         "Audio": "/audio/eo.wav",
@@ -7227,7 +7218,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 804,
+        "ID": 803,
         "Word": "엉덩이",
         "Meaning": "Mông",
         "Audio": "/audio/mong.wav",
@@ -7236,7 +7227,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 805,
+        "ID": 804,
         "Word": "피부 톤",
         "Meaning": "Tông da",
         "Audio": "/audio/ton_da.wav",
@@ -7245,7 +7236,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 806,
+        "ID": 805,
         "Word": "체중 감량",
         "Meaning": "Giảm cân",
         "Audio": "/audio/giam_can.wav",
@@ -7254,7 +7245,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 807,
+        "ID": 806,
         "Word": "체중 증가",
         "Meaning": "Tăng cân",
         "Audio": "/audio/tang_can.wav",
@@ -7263,7 +7254,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 808,
+        "ID": 807,
         "Word": "턱",
         "Meaning": "Cằm",
         "Audio": "/audio/cam.wav",
@@ -7272,7 +7263,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 809,
+        "ID": 808,
         "Word": "갸름한 얼굴",
         "Meaning": "Khuôn mặt thon",
         "Audio": "/audio/khuon_mat_thon.wav",
@@ -7281,7 +7272,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 810,
+        "ID": 809,
         "Word": "둥근 얼굴",
         "Meaning": "Khuôn mặt tròn",
         "Audio": "/audio/khuon_mat_tron.wav",
@@ -7290,7 +7281,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 811,
+        "ID": 810,
         "Word": "각진 얼굴",
         "Meaning": "Khuôn mặt góc cạnh",
         "Audio": "/audio/khuon_mat_goc_canh.wav",
@@ -7299,7 +7290,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 812,
+        "ID": 811,
         "Word": "오똑한 코",
         "Meaning": "Mũi cao",
         "Audio": "/audio/mui_cao.wav",
@@ -7308,7 +7299,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 813,
+        "ID": 812,
         "Word": "납작한 코",
         "Meaning": "Mũi tẹt",
         "Audio": "/audio/mui_tet.wav",
@@ -7317,7 +7308,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 814,
+        "ID": 813,
         "Word": "넓은 이마",
         "Meaning": "Trán rộng",
         "Audio": "/audio/tran_rong.wav",
@@ -7326,7 +7317,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 815,
+        "ID": 814,
         "Word": "좁은 이마",
         "Meaning": "Trán hẹp",
         "Audio": "/audio/tran_hep.wav",
@@ -7335,7 +7326,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 816,
+        "ID": 815,
         "Word": "깊은 쌍꺼풀",
         "Meaning": "Mắt hai mí sâu",
         "Audio": "/audio/mat_hai_mi_sau.wav",
@@ -7344,7 +7335,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 817,
+        "ID": 816,
         "Word": "얇은 입술",
         "Meaning": "Môi mỏng",
         "Audio": "/audio/moi_mong.wav",
@@ -7353,7 +7344,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 818,
+        "ID": 817,
         "Word": "두꺼운 입술",
         "Meaning": "Môi dày",
         "Audio": "/audio/moi_day.wav",
@@ -7362,7 +7353,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 819,
+        "ID": 818,
         "Word": "긴 속눈썹",
         "Meaning": "Lông mi dài",
         "Audio": "/audio/long_mi_dai.wav",
@@ -7371,7 +7362,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 820,
+        "ID": 819,
         "Word": "짧은 속눈썹",
         "Meaning": "Lông mi ngắn",
         "Audio": "/audio/long_mi_ngan.wav",
@@ -7380,7 +7371,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 821,
+        "ID": 820,
         "Word": "옆트임 눈",
         "Meaning": "Mắt dài",
         "Audio": "/audio/mat_dai.wav",
@@ -7389,7 +7380,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 822,
+        "ID": 821,
         "Word": "동그란 눈",
         "Meaning": "Mắt tròn",
         "Audio": "/audio/mat_tron.wav",
@@ -7398,7 +7389,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 823,
+        "ID": 822,
         "Word": "속쌍꺼풀",
         "Meaning": "Mí lót",
         "Audio": "/audio/mi_lot.wav",
@@ -7407,7 +7398,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 824,
+        "ID": 823,
         "Word": "잔머리",
         "Meaning": "Tóc con",
         "Audio": "/audio/toc_con.wav",
@@ -7416,7 +7407,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 825,
+        "ID": 824,
         "Word": "곱슬머리",
         "Meaning": "Tóc xoăn",
         "Audio": "/audio/toc_xoan.wav",
@@ -7425,7 +7416,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 826,
+        "ID": 825,
         "Word": "생머리",
         "Meaning": "Tóc thẳng",
         "Audio": "/audio/toc_thang.wav",
@@ -7434,7 +7425,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 827,
+        "ID": 826,
         "Word": "갈색 머리",
         "Meaning": "Tóc nâu",
         "Audio": "/audio/toc_nau.wav",
@@ -7443,7 +7434,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 828,
+        "ID": 827,
         "Word": "금발 머리",
         "Meaning": "Tóc vàng",
         "Audio": "/audio/toc_vang.wav",
@@ -7452,7 +7443,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 829,
+        "ID": 828,
         "Word": "흰 머리",
         "Meaning": "Tóc bạc",
         "Audio": "/audio/toc_bac.wav",
@@ -7461,7 +7452,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 830,
+        "ID": 829,
         "Word": "단발머리",
         "Meaning": "Tóc ngang vai",
         "Audio": "/audio/toc_ngang_vai.wav",
@@ -7470,7 +7461,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 831,
+        "ID": 830,
         "Word": "핑크빛 피부",
         "Meaning": "Làn da hồng hào",
         "Audio": "/audio/lan_da_hong_hao.wav",
@@ -7479,7 +7470,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 832,
+        "ID": 831,
         "Word": "주름",
         "Meaning": "Nếp nhăn",
         "Audio": "/audio/nep_nhan.wav",
@@ -7488,7 +7479,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 833,
+        "ID": 832,
         "Word": "다크서클",
         "Meaning": "Quầng thâm mắt",
         "Audio": "/audio/quang_tham_mat.wav",
@@ -7497,7 +7488,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 834,
+        "ID": 833,
         "Word": "턱살",
         "Meaning": "Nọng cằm",
         "Audio": "/audio/nong_canh.wav",
@@ -7506,7 +7497,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 835,
+        "ID": 834,
         "Word": "볼살",
         "Meaning": "Má phúng phính",
         "Audio": "/audio/ma_phung_phinh.wav",
@@ -7515,7 +7506,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 836,
+        "ID": 835,
         "Word": "오동통한 손",
         "Meaning": "Bàn tay mũm mĩm",
         "Audio": "/audio/ban_tay_mum_mim.wav",
@@ -7524,7 +7515,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 837,
+        "ID": 836,
         "Word": "장신",
         "Meaning": "Dáng người cao",
         "Audio": "/audio/dang_nguoi_cao.wav",
@@ -7533,7 +7524,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 838,
+        "ID": 837,
         "Word": "단신",
         "Meaning": "Dáng người thấp",
         "Audio": "/audio/dang_nguoi_thap.wav",
@@ -7542,7 +7533,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 839,
+        "ID": 838,
         "Word": "왜소한 체형",
         "Meaning": "Dáng người nhỏ bé",
         "Audio": "/audio/dang_nguoi_nho_be.wav",
@@ -7551,7 +7542,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 840,
+        "ID": 839,
         "Word": "근육질 몸매",
         "Meaning": "Thân hình cơ bắp",
         "Audio": "/audio/than_hinh_co_bap.wav",
@@ -7560,7 +7551,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 841,
+        "ID": 840,
         "Word": "부드러운 손",
         "Meaning": "Bàn tay mềm mại",
         "Audio": "/audio/ban_tay_mem_mai.wav",
@@ -7569,7 +7560,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 842,
+        "ID": 841,
         "Word": "거친 피부",
         "Meaning": "Làn da thô ráp",
         "Audio": "/audio/lan_da_tho_rap.wav",
@@ -7578,7 +7569,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 843,
+        "ID": 842,
         "Word": "눈웃음",
         "Meaning": "Nụ cười bằng mắt",
         "Audio": "/audio/nu_cuoi_bang_mat.wav",
@@ -7587,7 +7578,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 844,
+        "ID": 843,
         "Word": "반짝이는 눈",
         "Meaning": "Đôi mắt sáng lấp lánh",
         "Audio": "/audio/doi_mat_sang_lap_lanh.wav",
@@ -7596,7 +7587,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 845,
+        "ID": 844,
         "Word": "넓은 어깨",
         "Meaning": "Bờ vai rộng",
         "Audio": "/audio/bo_vai_rong.wav",
@@ -7605,7 +7596,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 846,
+        "ID": 845,
         "Word": "좁은 어깨",
         "Meaning": "Bờ vai hẹp",
         "Audio": "/audio/bo_vai_hep.wav",
@@ -7614,7 +7605,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 847,
+        "ID": 846,
         "Word": "짙은 눈썹",
         "Meaning": "Lông mày rậm",
         "Audio": "/audio/long_may_ram.wav",
@@ -7623,7 +7614,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 848,
+        "ID": 847,
         "Word": "옅은 눈썹",
         "Meaning": "Lông mày nhạt",
         "Audio": "/audio/long_may_nhat.wav",
@@ -7632,7 +7623,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 849,
+        "ID": 848,
         "Word": "오똑한 턱",
         "Meaning": "Cằm nhọn",
         "Audio": "/audio/cam_nhon.wav",
@@ -7641,7 +7632,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 850,
+        "ID": 849,
         "Word": "둥근 턱",
         "Meaning": "Cằm tròn",
         "Audio": "/audio/cam_tron.wav",
@@ -7650,7 +7641,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 851,
+        "ID": 850,
         "Word": "큰 귀",
         "Meaning": "Tai to",
         "Audio": "/audio/tai_to.wav",
@@ -7659,7 +7650,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 852,
+        "ID": 851,
         "Word": "작은 귀",
         "Meaning": "Tai nhỏ",
         "Audio": "/audio/tai_nho.wav",
@@ -7668,7 +7659,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 853,
+        "ID": 852,
         "Word": "검은 눈동자",
         "Meaning": "Con ngươi đen",
         "Audio": "/audio/con_nguoi_den.wav",
@@ -7677,7 +7668,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 854,
+        "ID": 853,
         "Word": "갈색 눈동자",
         "Meaning": "Con ngươi nâu",
         "Audio": "/audio/con_nguoi_nau.wav",
@@ -7686,7 +7677,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 855,
+        "ID": 854,
         "Word": "매끈한 피부",
         "Meaning": "Làn da mịn màng",
         "Audio": "/audio/lan_da_min_mang.wav",
@@ -7695,7 +7686,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 856,
+        "ID": 855,
         "Word": "복근",
         "Meaning": "Cơ bụng",
         "Audio": "/audio/co_bung.wav",
@@ -7704,7 +7695,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 857,
+        "ID": 856,
         "Word": "넓은 손",
         "Meaning": "Bàn tay rộng",
         "Audio": "/audio/ban_tay_rong.wav",
@@ -7713,7 +7704,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 858,
+        "ID": 857,
         "Word": "긴 다리",
         "Meaning": "Đôi chân dài",
         "Audio": "/audio/doi_chan_dai.wav",
@@ -7722,7 +7713,7 @@
         "Topic": "Ngoại hình"
     },
     {
-        "ID": 859,
+        "ID": 858,
         "Word": "시간",
         "Meaning": "Thời gian",
         "Audio": "/audio/thoi_gian.wav",
@@ -7731,7 +7722,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 860,
+        "ID": 859,
         "Word": "분",
         "Meaning": "Phút",
         "Audio": "/audio/phut.wav",
@@ -7740,7 +7731,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 861,
+        "ID": 860,
         "Word": "초",
         "Meaning": "Giây",
         "Audio": "/audio/giay.wav",
@@ -7749,7 +7740,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 862,
+        "ID": 861,
         "Word": "시",
         "Meaning": "Giờ",
         "Audio": "/audio/gio.wav",
@@ -7758,7 +7749,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 863,
+        "ID": 862,
         "Word": "하루",
         "Meaning": "Một ngày",
         "Audio": "/audio/mot_ngay.wav",
@@ -7767,7 +7758,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 864,
+        "ID": 863,
         "Word": "이틀",
         "Meaning": "Hai ngày",
         "Audio": "/audio/hai_ngay.wav",
@@ -7776,7 +7767,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 865,
+        "ID": 864,
         "Word": "사흘",
         "Meaning": "Ba ngày",
         "Audio": "/audio/ba_ngay.wav",
@@ -7785,7 +7776,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 866,
+        "ID": 865,
         "Word": "나흘",
         "Meaning": "Bốn ngày",
         "Audio": "/audio/bon_ngay.wav",
@@ -7794,7 +7785,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 867,
+        "ID": 866,
         "Word": "닷새",
         "Meaning": "Năm ngày",
         "Audio": "/audio/nam_ngay.wav",
@@ -7803,7 +7794,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 868,
+        "ID": 867,
         "Word": "일주일",
         "Meaning": "Một tuần",
         "Audio": "/audio/mot_tuan.wav",
@@ -7812,7 +7803,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 869,
+        "ID": 868,
         "Word": "주말",
         "Meaning": "Cuối tuần",
         "Audio": "/audio/cuoi_tuan.wav",
@@ -7821,7 +7812,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 870,
+        "ID": 869,
         "Word": "평일",
         "Meaning": "Ngày thường",
         "Audio": "/audio/ngay_thuong.wav",
@@ -7830,7 +7821,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 871,
+        "ID": 870,
         "Word": "주중",
         "Meaning": "Trong tuần",
         "Audio": "/audio/trong_tuan.wav",
@@ -7839,7 +7830,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 872,
+        "ID": 871,
         "Word": "주간",
         "Meaning": "Ban ngày",
         "Audio": "/audio/ban_ngay.wav",
@@ -7848,7 +7839,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 873,
+        "ID": 872,
         "Word": "야간",
         "Meaning": "Ban đêm",
         "Audio": "/audio/ban_dem.wav",
@@ -7857,7 +7848,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 874,
+        "ID": 873,
         "Word": "새벽",
         "Meaning": "Rạng sáng",
         "Audio": "/audio/rang_sang.wav",
@@ -7866,7 +7857,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 875,
+        "ID": 874,
         "Word": "아침",
         "Meaning": "Buổi sáng",
         "Audio": "/audio/buoi_sang.wav",
@@ -7875,7 +7866,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 876,
+        "ID": 875,
         "Word": "점심",
         "Meaning": "Buổi trưa",
         "Audio": "/audio/buoi_trua.wav",
@@ -7884,7 +7875,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 877,
+        "ID": 876,
         "Word": "오후",
         "Meaning": "Buổi chiều (PM)",
         "Audio": "/audio/buoi_chieu.wav",
@@ -7893,7 +7884,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 878,
+        "ID": 877,
         "Word": "저녁",
         "Meaning": "Buổi tối",
         "Audio": "/audio/buoi_toi.wav",
@@ -7902,7 +7893,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 879,
+        "ID": 878,
         "Word": "밤",
         "Meaning": "Ban đêm",
         "Audio": "/audio/ban_dem.wav",
@@ -7911,7 +7902,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 880,
+        "ID": 879,
         "Word": "자정",
         "Meaning": "Nửa đêm",
         "Audio": "/audio/nua_dem.wav",
@@ -7920,7 +7911,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 881,
+        "ID": 880,
         "Word": "한밤중",
         "Meaning": "Nửa đêm khuya",
         "Audio": "/audio/nua_dem_khuya.wav",
@@ -7929,7 +7920,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 882,
+        "ID": 881,
         "Word": "정오",
         "Meaning": "Giữa trưa",
         "Audio": "/audio/giua_trua.wav",
@@ -7938,7 +7929,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 883,
+        "ID": 882,
         "Word": "어제",
         "Meaning": "Hôm qua",
         "Audio": "/audio/hom_qua.wav",
@@ -7947,7 +7938,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 884,
+        "ID": 883,
         "Word": "오늘",
         "Meaning": "Hôm nay",
         "Audio": "/audio/hom_nay.wav",
@@ -7956,7 +7947,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 885,
+        "ID": 884,
         "Word": "내일",
         "Meaning": "Ngày mai",
         "Audio": "/audio/ngay_mai.wav",
@@ -7965,7 +7956,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 886,
+        "ID": 885,
         "Word": "모레",
         "Meaning": "Ngày kia",
         "Audio": "/audio/ngay_kia.wav",
@@ -7974,7 +7965,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 887,
+        "ID": 886,
         "Word": "평생",
         "Meaning": "Suốt đời",
         "Audio": "/audio/suot_doi.wav",
@@ -7983,7 +7974,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 888,
+        "ID": 887,
         "Word": "과거",
         "Meaning": "Quá khứ",
         "Audio": "/audio/qua_khu.wav",
@@ -7992,7 +7983,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 889,
+        "ID": 888,
         "Word": "현재",
         "Meaning": "Hiện tại",
         "Audio": "/audio/hien_tai.wav",
@@ -8001,7 +7992,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 890,
+        "ID": 889,
         "Word": "미래",
         "Meaning": "Tương lai",
         "Audio": "/audio/tuong_lai.wav",
@@ -8010,7 +8001,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 891,
+        "ID": 890,
         "Word": "옛날",
         "Meaning": "Ngày xưa",
         "Audio": "/audio/ngay_xua.wav",
@@ -8019,7 +8010,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 892,
+        "ID": 891,
         "Word": "올해",
         "Meaning": "Năm nay",
         "Audio": "/audio/nam_nay.wav",
@@ -8028,7 +8019,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 893,
+        "ID": 892,
         "Word": "내년",
         "Meaning": "Năm sau",
         "Audio": "/audio/nam_sau.wav",
@@ -8037,7 +8028,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 894,
+        "ID": 893,
         "Word": "작년",
         "Meaning": "Năm ngoái",
         "Audio": "/audio/nam_ngoai.wav",
@@ -8046,7 +8037,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 895,
+        "ID": 894,
         "Word": "계절",
         "Meaning": "Mùa",
         "Audio": "/audio/mua.wav",
@@ -8055,7 +8046,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 896,
+        "ID": 895,
         "Word": "봄",
         "Meaning": "Mùa xuân",
         "Audio": "/audio/mua_xuan.wav",
@@ -8064,7 +8055,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 897,
+        "ID": 896,
         "Word": "여름",
         "Meaning": "Mùa hè",
         "Audio": "/audio/mua_he.wav",
@@ -8073,7 +8064,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 898,
+        "ID": 897,
         "Word": "가을",
         "Meaning": "Mùa thu",
         "Audio": "/audio/mua_thu.wav",
@@ -8082,7 +8073,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 899,
+        "ID": 898,
         "Word": "겨울",
         "Meaning": "Mùa đông",
         "Audio": "/audio/mua_dong.wav",
@@ -8091,7 +8082,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 900,
+        "ID": 899,
         "Word": "연휴",
         "Meaning": "Kỳ nghỉ dài",
         "Audio": "/audio/ky_nghi_dai.wav",
@@ -8100,7 +8091,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 901,
+        "ID": 900,
         "Word": "공휴일",
         "Meaning": "Ngày lễ",
         "Audio": "/audio/ngay_le.wav",
@@ -8109,7 +8100,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 902,
+        "ID": 901,
         "Word": "마감일",
         "Meaning": "Hạn chót",
         "Audio": "/audio/han_chot.wav",
@@ -8118,7 +8109,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 903,
+        "ID": 902,
         "Word": "초반",
         "Meaning": "Đầu kỳ",
         "Audio": "/audio/dau_ky.wav",
@@ -8127,7 +8118,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 904,
+        "ID": 903,
         "Word": "중반",
         "Meaning": "Giữa kỳ",
         "Audio": "/audio/giua_ky.wav",
@@ -8136,7 +8127,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 905,
+        "ID": 904,
         "Word": "후반",
         "Meaning": "Cuối kỳ",
         "Audio": "/audio/cuoi_ky.wav",
@@ -8145,7 +8136,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 906,
+        "ID": 905,
         "Word": "즉시",
         "Meaning": "Ngay lập tức",
         "Audio": "/audio/ngay_lap_tuc.wav",
@@ -8154,7 +8145,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 907,
+        "ID": 906,
         "Word": "순간",
         "Meaning": "Khoảnh khắc",
         "Audio": "/audio/khoanh_khac.wav",
@@ -8163,7 +8154,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 908,
+        "ID": 907,
         "Word": "곧",
         "Meaning": "Sắp, ngay",
         "Audio": "/audio/sap_ngay.wav",
@@ -8172,7 +8163,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 909,
+        "ID": 908,
         "Word": "순간적",
         "Meaning": "Nhất thời, tạm thời",
         "Audio": "/audio/nhat_thoi_tam_thoi.wav",
@@ -8181,7 +8172,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 910,
+        "ID": 909,
         "Word": "한순간",
         "Meaning": "Một khoảnh khắc",
         "Audio": "/audio/mot_khoanh_khac.wav",
@@ -8190,7 +8181,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 911,
+        "ID": 910,
         "Word": "오래",
         "Meaning": "Lâu",
         "Audio": "/audio/lau.wav",
@@ -8199,7 +8190,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 912,
+        "ID": 911,
         "Word": "잠시",
         "Meaning": "Một lúc, chốc lát",
         "Audio": "/audio/mot_luc_choc_lat.wav",
@@ -8208,7 +8199,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 913,
+        "ID": 912,
         "Word": "잠깐",
         "Meaning": "Chốc lát, thoáng qua",
         "Audio": "/audio/choc_lat_thoang_qua.wav",
@@ -8217,7 +8208,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 914,
+        "ID": 913,
         "Word": "방금",
         "Meaning": "Vừa mới",
         "Audio": "/audio/vua_moi.wav",
@@ -8226,7 +8217,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 915,
+        "ID": 914,
         "Word": "요즘",
         "Meaning": "Dạo này",
         "Audio": "/audio/dao_nay.wav",
@@ -8235,7 +8226,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 916,
+        "ID": 915,
         "Word": "최근",
         "Meaning": "Gần đây",
         "Audio": "/audio/gan_day.wav",
@@ -8244,7 +8235,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 917,
+        "ID": 916,
         "Word": "지금까지",
         "Meaning": "Cho đến bây giờ",
         "Audio": "/audio/cho_den_bay_gio.wav",
@@ -8253,7 +8244,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 918,
+        "ID": 917,
         "Word": "앞으로",
         "Meaning": "Trong tương lai",
         "Audio": "/audio/trong_tuong_lai.wav",
@@ -8262,7 +8253,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 919,
+        "ID": 918,
         "Word": "앞으로도",
         "Meaning": "Kể từ bây giờ",
         "Audio": "/audio/ke_tu_bay_gio.wav",
@@ -8271,7 +8262,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 920,
+        "ID": 919,
         "Word": "이미",
         "Meaning": "Đã (xảy ra trong quá khứ)",
         "Audio": "/audio/da_xay_ra_trong_qua_khu.wav",
@@ -8280,7 +8271,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 921,
+        "ID": 920,
         "Word": "벌써",
         "Meaning": "Đã (nhanh hơn dự đoán)",
         "Audio": "/audio/da_nhanh_hon_du_doan.wav",
@@ -8289,7 +8280,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 922,
+        "ID": 921,
         "Word": "마침",
         "Meaning": "Đúng lúc",
         "Audio": "/audio/duong_luc.wav",
@@ -8298,7 +8289,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 923,
+        "ID": 922,
         "Word": "때",
         "Meaning": "Khi, lúc",
         "Audio": "/audio/khi_luc.wav",
@@ -8307,7 +8298,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 924,
+        "ID": 923,
         "Word": "적",
         "Meaning": "Khi, lúc (trải nghiệm trong quá khứ)",
         "Audio": "/audio/khi_luc_trai_nghiem_trong_qua_khu.wav",
@@ -8316,7 +8307,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 925,
+        "ID": 924,
         "Word": "동안",
         "Meaning": "Trong khi, suốt",
         "Audio": "/audio/trong_khi_suot.wav",
@@ -8325,7 +8316,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 926,
+        "ID": 925,
         "Word": "이후",
         "Meaning": "Sau đó",
         "Audio": "/audio/sau_do.wav",
@@ -8334,7 +8325,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 927,
+        "ID": 926,
         "Word": "이후로",
         "Meaning": "Từ đó về sau",
         "Audio": "/audio/tu_do_ve_sau.wav",
@@ -8343,7 +8334,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 928,
+        "ID": 927,
         "Word": "이내",
         "Meaning": "Trong vòng",
         "Audio": "/audio/trong_vong.wav",
@@ -8352,7 +8343,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 929,
+        "ID": 928,
         "Word": "전",
         "Meaning": "Trước",
         "Audio": "/audio/truoc.wav",
@@ -8361,7 +8352,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 930,
+        "ID": 929,
         "Word": "후",
         "Meaning": "Sau",
         "Audio": "/audio/sau.wav",
@@ -8370,7 +8361,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 931,
+        "ID": 930,
         "Word": "초반",
         "Meaning": "Đầu giai đoạn",
         "Audio": "/audio/dau_giai_doan.wav",
@@ -8379,7 +8370,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 932,
+        "ID": 931,
         "Word": "중반",
         "Meaning": "Giữa giai đoạn",
         "Audio": "/audio/giua_giai_doan.wav",
@@ -8388,7 +8379,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 933,
+        "ID": 932,
         "Word": "후반",
         "Meaning": "Cuối giai đoạn",
         "Audio": "/audio/cuoi_giai_doan.wav",
@@ -8397,7 +8388,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 934,
+        "ID": 933,
         "Word": "해",
         "Meaning": "Năm (đời sống hàng ngày)",
         "Audio": "/audio/nam_doi_song_hang_ngay.wav",
@@ -8406,7 +8397,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 935,
+        "ID": 934,
         "Word": "년",
         "Meaning": "Năm (trong số liệu)",
         "Audio": "/audio/nam_trong_so_lieu.wav",
@@ -8415,7 +8406,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 936,
+        "ID": 935,
         "Word": "달",
         "Meaning": "Tháng (đời sống hàng ngày)",
         "Audio": "/audio/thang_doi_song_hang_ngay.wav",
@@ -8424,7 +8415,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 937,
+        "ID": 936,
         "Word": "개월",
         "Meaning": "Tháng (trong số liệu)",
         "Audio": "/audio/thang_trong_so_lieu.wav",
@@ -8433,7 +8424,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 938,
+        "ID": 937,
         "Word": "주",
         "Meaning": "Tuần (trong số liệu)",
         "Audio": "/audio/tuan_trong_so_lieu.wav",
@@ -8442,7 +8433,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 939,
+        "ID": 938,
         "Word": "무렵",
         "Meaning": "Vào khoảng",
         "Audio": "/audio/vao_khoang.wav",
@@ -8451,7 +8442,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 940,
+        "ID": 939,
         "Word": "때때로",
         "Meaning": "Đôi khi",
         "Audio": "/audio/doi_khi.wav",
@@ -8460,7 +8451,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 941,
+        "ID": 940,
         "Word": "가끔",
         "Meaning": "Thỉnh thoảng",
         "Audio": "/audio/thinh_thoang.wav",
@@ -8469,7 +8460,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 942,
+        "ID": 941,
         "Word": "자주",
         "Meaning": "Thường xuyên",
         "Audio": "/audio/thuong_xuyen.wav",
@@ -8478,7 +8469,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 943,
+        "ID": 942,
         "Word": "매일",
         "Meaning": "Mỗi ngày",
         "Audio": "/audio/moi_ngay.wav",
@@ -8487,7 +8478,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 944,
+        "ID": 943,
         "Word": "매주",
         "Meaning": "Mỗi tuần",
         "Audio": "/audio/moi_tuan.wav",
@@ -8496,7 +8487,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 945,
+        "ID": 944,
         "Word": "매달",
         "Meaning": "Mỗi tháng",
         "Audio": "/audio/moi_thang.wav",
@@ -8505,7 +8496,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 946,
+        "ID": 945,
         "Word": "매년",
         "Meaning": "Mỗi năm",
         "Audio": "/audio/moi_nam.wav",
@@ -8514,7 +8505,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 947,
+        "ID": 946,
         "Word": "종종",
         "Meaning": "Thỉnh thoảng",
         "Audio": "/audio/thinh_thoang.wav",
@@ -8523,7 +8514,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 948,
+        "ID": 947,
         "Word": "이틀에 한 번",
         "Meaning": "Cách ngày",
         "Audio": "/audio/cach_ngay.wav",
@@ -8532,7 +8523,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 949,
+        "ID": 948,
         "Word": "몇 년 전",
         "Meaning": "Vài năm trước",
         "Audio": "/audio/vai_nam_truoc.wav",
@@ -8541,7 +8532,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 950,
+        "ID": 949,
         "Word": "하루하루",
         "Meaning": "Mỗi ngày",
         "Audio": "/audio/moi_ngay.wav",
@@ -8550,7 +8541,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 951,
+        "ID": 950,
         "Word": "순간 순간",
         "Meaning": "Từng khoảnh khắc",
         "Audio": "/audio/tung_khoanh_khac.wav",
@@ -8559,7 +8550,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 952,
+        "ID": 951,
         "Word": "평생",
         "Meaning": "Suốt đời, cả đời",
         "Audio": "/audio/suot_doi_ca_doi.wav",
@@ -8568,7 +8559,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 953,
+        "ID": 952,
         "Word": "장기적",
         "Meaning": "Dài hạn",
         "Audio": "/audio/dai_han.wav",
@@ -8577,7 +8568,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 954,
+        "ID": 953,
         "Word": "단기적",
         "Meaning": "Ngắn hạn",
         "Audio": "/audio/ngan_han.wav",
@@ -8586,7 +8577,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 955,
+        "ID": 954,
         "Word": "근래",
         "Meaning": "Dạo gần đây",
         "Audio": "/audio/dao_gan_day.wav",
@@ -8595,7 +8586,7 @@
         "Topic": "Thời Gian"
     },
     {
-        "ID": 956,
+        "ID": 955,
         "Word": "기한",
         "Meaning": "Hạn chót, thời hạn",
         "Audio": "/audio/han_chot_thoi_han.wav",
